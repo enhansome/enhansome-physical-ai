@@ -1,0 +1,534 @@
+{
+  "items": [
+    {
+      "description": "1. Learn the core reinforcement learning loopStart with Gymnasium CartPole to build intuition for states, actions, rewards, and policies.\n2. Explore simulationUse MuJoCo to understand how control, physics, contacts, and robot dynamics are modelled.\n3. Inspect a modern robot-learning workflowBrowse LeRobot to see how robot datasets, policies, training, and evaluation are structured in practice.\n4. Explore the frontier of embodied foundation modelsLook at OpenVLA to understand how vision-language-action models connect perception, language, and robot control.\n5. Move deeper when readyOnce the above feels clear, continue into imitation learning, generalist robot policies, sim-to-real methods, hardware, and evaluation.",
+      "items": [],
+      "title": "Quick start path"
+    },
+    {
+      "description": "Large-scale teleoperation, demonstration, and interaction datasets used to train robot policies.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AgiBot World",
+          "description": "Large-scale dataset designed to train and evaluate robot foundation models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T12:31:22Z",
+            "owner": "OpenDriveLab",
+            "repo": "AgiBot-World",
+            "stars": 3135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CALVIN ABC-D",
+          "description": "Language-conditioned manipulation dataset for long-horizon policy training and evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T08:52:01Z",
+            "owner": "mees",
+            "repo": "calvin",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLDS",
+          "description": "Standardized format and tooling for logged trajectories used across robot-learning datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-26T16:40:01Z",
+            "owner": "google-research",
+            "repo": "rlds",
+            "stars": 494
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "Task suites and standardised evaluations for manipulation, locomotion, and embodied reasoning.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ManiSkill Benchmark",
+          "description": "Manipulation benchmark suite with scalable GPU simulation and reproducible baselines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T16:38:18Z",
+            "owner": "mani-skill",
+            "repo": "ManiSkill",
+            "stars": 3220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CALVIN",
+          "description": "Benchmark for long-horizon, language-conditioned manipulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T08:52:01Z",
+            "owner": "mees",
+            "repo": "calvin",
+            "stars": 968
+          }
+        }
+      ],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "Harnesses, metrics, and methodology for measuring robot policy performance, robustness, and sim-to-real validity.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LeRobot Evaluation Scripts",
+          "description": "Practical evaluation tooling for imitation-learning and policy-regression checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:04:08Z",
+            "owner": "huggingface",
+            "repo": "lerobot",
+            "stars": 26615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bench2Drive",
+          "description": "Closed-loop evaluation protocol for end-to-end driving policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T04:01:59Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "Bench2Drive",
+            "stars": 1922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuPlan Devkit",
+          "description": "End-to-end planning evaluation stack with documented metrics and simulation loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-27T05:24:55Z",
+            "owner": "motional",
+            "repo": "nuplan-devkit",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CARLA ScenarioRunner",
+          "description": "Scenario-based closed-loop evaluation harness for safety-critical driving behaviors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T12:30:00Z",
+            "owner": "carla-simulator",
+            "repo": "scenario_runner",
+            "stars": 675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboHive",
+          "description": "Benchmarking suite with standardized tasks and scoring across manipulation and locomotion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:20:07Z",
+            "owner": "vikashplus",
+            "repo": "robohive",
+            "stars": 631
+          }
+        }
+      ],
+      "title": "Evaluation Methodology"
+    },
+    {
+      "description": "Legged, bipedal, and humanoid locomotion — controllers, learning approaches, and reference platforms.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MuJoCo Menagerie",
+          "description": "Curated high-quality robot models for repeatable locomotion research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T19:35:18Z",
+            "owner": "google-deepmind",
+            "repo": "mujoco_menagerie",
+            "stars": 3813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "legged_gym",
+          "description": "Reference Isaac Gym/Isaac Lab environments for legged locomotion research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T08:02:13Z",
+            "owner": "leggedrobotics",
+            "repo": "legged_gym",
+            "stars": 3081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSL-RL",
+          "description": "Fast PPO implementation from ETH Zurich tuned for legged-robot RL on GPU simulators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T12:59:55Z",
+            "owner": "leggedrobotics",
+            "repo": "rsl_rl",
+            "stars": 2882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLD — Fourier Latent Dynamics (MIT Biomimetics)",
+          "description": "Periodic motion latent representation for learning agile, natural-looking legged locomotion (ICLR 2024).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T08:55:50Z",
+            "owner": "mit-biomimetics",
+            "repo": "fld",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WASABI (Max Planck / Martius Lab)",
+          "description": "Versatile skill learning for quadrupeds via unsupervised motion-prior discovery from unlabeled reference data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-21T11:06:19Z",
+            "owner": "martius-lab",
+            "repo": "wasabi",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CASSI (Max Planck / Martius Lab)",
+          "description": "Self-supervised adversarial imitation of unlabeled mixed motions for versatile quadruped skill control (ICRA 2023).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-06T14:17:09Z",
+            "owner": "martius-lab",
+            "repo": "cassi",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Locomotion"
+    },
+    {
+      "description": "Tools, benchmarks, and methodology for safe exploration, robustness testing, and failure-mode analysis.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OmniSafe",
+          "description": "Open-source safe-RL training framework with strong baseline implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-17T11:45:44Z",
+            "owner": "PKU-Alignment",
+            "repo": "omnisafe",
+            "stars": 1148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safe Control Gym",
+          "description": "Benchmark suite for safe learning-based control with constraints and disturbances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T14:25:54Z",
+            "owner": "learnsyslab",
+            "repo": "safe-control-gym",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safety Gym (OpenAI)",
+          "description": "Environments for benchmarking constrained and safe-exploration RL.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-02T11:31:24Z",
+            "owner": "openai",
+            "repo": "safety-gym",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safety-Gymnasium",
+          "description": "Modern safe-RL benchmark suite extending Safety Gym with richer constraints and tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T04:04:21Z",
+            "owner": "PKU-Alignment",
+            "repo": "safety-gymnasium",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VerifAI",
+          "description": "Falsification and formal-analysis toolkit for autonomy and cyber-physical systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-05T23:03:46Z",
+            "owner": "BerkeleyLearnVerify",
+            "repo": "VerifAI",
+            "stars": 218
+          }
+        }
+      ],
+      "title": "Safety & Robustness"
+    },
+    {
+      "description": "Other curated lists covering adjacent topics.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Generative AI",
+          "description": "Broader generative AI resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T10:58:05Z",
+            "owner": "steven2358",
+            "repo": "awesome-generative-ai",
+            "stars": 12491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics",
+          "description": "General robotics resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-22T20:24:10Z",
+            "owner": "kiloreux",
+            "repo": "awesome-robotics",
+            "stars": 6835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM Robotics",
+          "description": "LLM/VLM applications in robotics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-17T20:28:18Z",
+            "owner": "GT-RIPL",
+            "repo": "Awesome-LLM-Robotics",
+            "stars": 4448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics Libraries",
+          "description": "Robotics software libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T23:31:04Z",
+            "owner": "jslee02",
+            "repo": "awesome-robotics-libraries",
+            "stars": 3013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Embodied Agent",
+          "description": "Embodied AI with VLMs and LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-14T06:30:19Z",
+            "owner": "zchoi",
+            "repo": "Awesome-Embodied-Robotics-and-Agent",
+            "stars": 1849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Deep RL",
+          "description": "Deep reinforcement learning resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-13T16:02:20Z",
+            "owner": "kengz",
+            "repo": "awesome-deep-rl",
+            "stars": 898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics 3D",
+          "description": "3D vision for robotics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-17T07:19:01Z",
+            "owner": "zubair-irshad",
+            "repo": "Awesome-Robotics-3D",
+            "stars": 820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Imitation Learning",
+          "description": "Learning from demonstrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-05T00:10:08Z",
+            "owner": "kristery",
+            "repo": "Awesome-Imitation-Learning",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bipedal Robot Learning Collection",
+          "description": "Curated bipedal/humanoid robot-learning papers with a sim-to-real focus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-06T15:10:18Z",
+            "owner": "zita-ch",
+            "repo": "bipedal-robot-learning-collection",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome World Models",
+          "description": "World models for robotics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-30T07:01:28Z",
+            "owner": "operator22th",
+            "repo": "awesome-world-models-for-robots",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI Scientists",
+          "description": "AI scientist systems for literature intelligence, hypothesis generation, experiment planning, and scientific communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T15:56:42Z",
+            "owner": "natnew",
+            "repo": "awesome-ai-scientists",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Agentic AI Security",
+          "description": "Security research, threat models, defenses, and governance for agentic AI systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-07-24T15:53:17Z",
+            "owner": "natnew",
+            "repo": "Awesome-Agentic-AI-Security",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Agentic Engineering",
+          "description": "Agentic AI architectures, frameworks, memory, evaluation, and safety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-28T09:03:04Z",
+            "owner": "natnew",
+            "repo": "Awesome-Agentic-Engineering",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:20.301Z",
+    "original_repository": "natnew/awesome-physical-ai",
+    "original_repository_sha": "9e134869844009345bc9402a55bb98f7f7c84b4b",
+    "enhanced_repository": "enhansome/enhansome-physical-ai",
+    "enhanced_repository_description": null,
+    "title": "Awesome Appendices with stars"
+  }
+}
