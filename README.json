@@ -19,7 +19,7 @@
             "last_commit": "2026-05-29T12:31:22Z",
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3135
+            "stars": 3136
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
             "repo": "calvin",
-            "stars": 968
+            "stars": 967
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2024-09-26T16:40:01Z",
             "owner": "google-research",
             "repo": "rlds",
-            "stars": 494
+            "stars": 493
           }
         }
       ],
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3220
+            "stars": 3221
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
             "repo": "calvin",
-            "stars": 968
+            "stars": 967
           }
         }
       ],
@@ -98,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:04:08Z",
+            "last_commit": "2026-08-14T04:17:35Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26615
+            "stars": 26641
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-08-11T04:01:59Z",
             "owner": "Thinklab-SJTU",
             "repo": "Bench2Drive",
-            "stars": 1922
+            "stars": 1923
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2025-08-27T05:24:55Z",
             "owner": "motional",
             "repo": "nuplan-devkit",
-            "stars": 1024
+            "stars": 1025
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-07-29T12:30:00Z",
             "owner": "carla-simulator",
             "repo": "scenario_runner",
-            "stars": 675
+            "stars": 676
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-13T00:20:07Z",
             "owner": "vikashplus",
             "repo": "robohive",
-            "stars": 631
+            "stars": 630
           }
         }
       ],
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3813
+            "stars": 3819
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2025-05-29T08:02:13Z",
             "owner": "leggedrobotics",
             "repo": "legged_gym",
-            "stars": 3081
+            "stars": 3086
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-07-20T12:59:55Z",
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 2882
+            "stars": 2885
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12491
+            "stars": 12492
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6835
+            "stars": 6837
           }
         },
         {
@@ -427,7 +427,7 @@
             "last_commit": "2025-12-17T07:19:01Z",
             "owner": "zubair-irshad",
             "repo": "Awesome-Robotics-3D",
-            "stars": 820
+            "stars": 819
           }
         },
         {
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:20.301Z",
+    "last_updated": "2026-08-14T05:42:17.194Z",
     "original_repository": "natnew/awesome-physical-ai",
     "original_repository_sha": "9e134869844009345bc9402a55bb98f7f7c84b4b",
     "enhanced_repository": "enhansome/enhansome-physical-ai",
