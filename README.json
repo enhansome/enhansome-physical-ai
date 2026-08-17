@@ -19,7 +19,7 @@
             "last_commit": "2026-05-29T12:31:22Z",
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3138
+            "stars": 3139
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3226
+            "stars": 3230
           }
         },
         {
@@ -98,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:52:48Z",
+            "last_commit": "2026-08-17T03:52:23Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26679
+            "stars": 26694
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3823
+            "stars": 3828
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2025-05-29T08:02:13Z",
             "owner": "leggedrobotics",
             "repo": "legged_gym",
-            "stars": 3088
+            "stars": 3090
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-07-20T12:59:55Z",
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 2888
+            "stars": 2890
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2025-03-17T11:45:44Z",
             "owner": "PKU-Alignment",
             "repo": "omnisafe",
-            "stars": 1148
+            "stars": 1149
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6938
+            "stars": 6948
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-14T13:55:45Z",
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
-            "stars": 1851
+            "stars": 1852
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2024-02-05T00:10:08Z",
             "owner": "kristery",
             "repo": "Awesome-Imitation-Learning",
-            "stars": 608
+            "stars": 609
           }
         },
         {
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:41:46.748Z",
+    "last_updated": "2026-08-17T04:51:02.583Z",
     "original_repository": "natnew/awesome-physical-ai",
     "original_repository_sha": "9e134869844009345bc9402a55bb98f7f7c84b4b",
     "enhanced_repository": "enhansome/enhansome-physical-ai",
