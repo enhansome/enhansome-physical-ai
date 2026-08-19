@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "1. Learn the core reinforcement learning loopStart with Gymnasium CartPole to build intuition for states, actions, rewards, and policies.\n2. Explore simulationUse MuJoCo to understand how control, physics, contacts, and robot dynamics are modelled.\n3. Inspect a modern robot-learning workflowBrowse LeRobot to see how robot datasets, policies, training, and evaluation are structured in practice.\n4. Explore the frontier of embodied foundation modelsLook at OpenVLA to understand how vision-language-action models connect perception, language, and robot control.\n5. Move deeper when readyOnce the above feels clear, continue into imitation learning, generalist robot policies, sim-to-real methods, hardware, and evaluation.",
-      "items": [],
-      "title": "Quick start path"
-    },
-    {
       "description": "Large-scale teleoperation, demonstration, and interaction datasets used to train robot policies.",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 900546855,
             "language": "Python",
             "last_commit": "2026-05-29T12:31:22Z",
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3144
+            "stars": 3145
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387839793,
             "language": "Python",
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 394176985,
             "language": "Jupyter Notebook",
             "last_commit": "2024-09-26T16:40:01Z",
             "owner": "google-research",
@@ -63,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520357130,
             "language": "Python",
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3238
+            "stars": 3240
           }
         },
         {
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387839793,
             "language": "Python",
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
@@ -97,11 +97,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-19T03:51:08Z",
+            "last_commit": "2026-08-19T10:46:58Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26743
+            "stars": 26755
           }
         },
         {
@@ -111,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 790577325,
             "language": "Python",
             "last_commit": "2026-08-11T04:01:59Z",
             "owner": "Thinklab-SJTU",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371305005,
             "language": "Python",
             "last_commit": "2025-08-27T05:24:55Z",
             "owner": "motional",
@@ -139,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158166716,
             "language": "Python",
             "last_commit": "2026-07-29T12:30:00Z",
             "owner": "carla-simulator",
             "repo": "scenario_runner",
-            "stars": 677
+            "stars": 679
           }
         },
         {
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140010231,
             "language": "Python",
             "last_commit": "2026-08-14T15:04:00Z",
             "owner": "vikashplus",
@@ -173,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532854029,
             "language": "Python",
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3837
+            "stars": 3840
           }
         },
         {
@@ -187,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418499474,
             "language": "Python",
             "last_commit": "2025-05-29T08:02:13Z",
             "owner": "leggedrobotics",
@@ -201,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418503284,
             "language": "Python",
             "last_commit": "2026-08-18T15:44:51Z",
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 2895
+            "stars": 2897
           }
         },
         {
@@ -215,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 755917291,
             "language": "Python",
             "last_commit": "2024-06-13T08:55:50Z",
             "owner": "mit-biomimetics",
@@ -229,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673934259,
             "language": "Python",
             "last_commit": "2024-03-21T11:06:19Z",
             "owner": "martius-lab",
@@ -243,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673935452,
             "language": "Python",
             "last_commit": "2024-04-06T14:17:09Z",
             "owner": "martius-lab",
@@ -263,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 568133426,
             "language": "Python",
             "last_commit": "2025-03-17T11:45:44Z",
             "owner": "PKU-Alignment",
@@ -277,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392837160,
             "language": "Python",
             "last_commit": "2026-04-29T14:25:54Z",
             "owner": "learnsyslab",
@@ -291,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 223119040,
             "language": "Python",
             "last_commit": "2023-04-02T11:31:24Z",
             "owner": "openai",
@@ -305,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 593935677,
             "language": "Python",
             "last_commit": "2026-07-21T04:04:21Z",
             "owner": "PKU-Alignment",
@@ -319,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169495137,
             "language": "Python",
             "last_commit": "2026-07-05T23:03:46Z",
             "owner": "BerkeleyLearnVerify",
@@ -330,6 +346,42 @@
       "title": "Safety & Robustness"
     },
     {
+      "description": "Physical robots for research and development.\nArms & Manipulators\nHumanoids\nMobile Robots\nLow-Cost & DIY",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LeRobot Hardware",
+          "description": "Reference designs for low-cost robot arms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748713144,
+            "language": "Python",
+            "last_commit": "2026-08-19T10:46:58Z",
+            "owner": "huggingface",
+            "repo": "lerobot",
+            "stars": 26755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SO-ARM100",
+          "description": "Open-source anthropomorphic robot arm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 798981945,
+            "language": null,
+            "last_commit": "2026-08-05T09:21:21Z",
+            "owner": "TheRobotStudio",
+            "repo": "SO-ARM100",
+            "stars": 7139
+          }
+        }
+      ],
+      "title": "Hardware Platforms"
+    },
+    {
       "description": "Other curated lists covering adjacent topics.",
       "items": [
         {
@@ -339,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 554771302,
             "language": null,
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12513
+            "stars": 12514
           }
         },
         {
@@ -353,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46938122,
             "language": null,
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
@@ -367,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 524119789,
             "language": null,
             "last_commit": "2026-07-17T20:28:18Z",
             "owner": "GT-RIPL",
@@ -381,11 +436,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56404753,
             "language": "Python",
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3017
+            "stars": 3018
           }
         },
         {
@@ -395,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668159220,
             "language": null,
             "last_commit": "2026-08-14T13:55:45Z",
             "owner": "zchoi",
@@ -409,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202937615,
             "language": null,
             "last_commit": "2025-07-13T16:02:20Z",
             "owner": "kengz",
@@ -423,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 841572588,
             "language": null,
             "last_commit": "2025-12-17T07:19:01Z",
             "owner": "zubair-irshad",
@@ -437,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153576507,
             "language": null,
             "last_commit": "2024-02-05T00:10:08Z",
             "owner": "kristery",
@@ -451,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488128787,
             "language": null,
             "last_commit": "2026-04-06T15:10:18Z",
             "owner": "zita-ch",
@@ -465,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 921979468,
             "language": null,
             "last_commit": "2026-03-30T07:01:28Z",
             "owner": "operator22th",
@@ -479,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1128507345,
             "language": "TypeScript",
             "last_commit": "2026-08-04T15:56:42Z",
             "owner": "natnew",
@@ -493,11 +556,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224236735,
             "language": "Astro",
             "last_commit": "2026-07-24T15:53:17Z",
             "owner": "natnew",
             "repo": "Awesome-Agentic-AI-Security",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -507,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186977349,
             "language": null,
             "last_commit": "2026-07-28T09:03:04Z",
             "owner": "natnew",
@@ -516,16 +581,12 @@
         }
       ],
       "title": "Related Awesome Lists"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:43:36.379Z",
+    "last_updated": "2026-08-19T12:46:01.982Z",
     "original_repository": "natnew/awesome-physical-ai",
+    "original_repository_id": 1128508841,
     "original_repository_sha": "9e134869844009345bc9402a55bb98f7f7c84b4b",
     "enhanced_repository": "enhansome/enhansome-physical-ai",
     "enhanced_repository_description": null,
