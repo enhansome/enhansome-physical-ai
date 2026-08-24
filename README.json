@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "description": "Physics engines and high-fidelity simulation environments for robotics and embodied AI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyBullet",
+          "description": "Open-source physics engine (Bullet) with Python bindings, popular for prototyping and RL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1605598,
+            "language": "C++",
+            "last_commit": "2025-10-22T02:13:14Z",
+            "owner": "bulletphysics",
+            "repo": "bullet3",
+            "stars": 14692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brax",
+          "description": "Differentiable, accelerator-native physics engine designed for high-throughput RL experimentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373310764,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-06T15:04:10Z",
+            "owner": "google",
+            "repo": "brax",
+            "stars": 3223
+          }
+        }
+      ],
+      "title": "Simulators"
+    },
+    {
       "description": "Large-scale teleoperation, demonstration, and interaction datasets used to train robot policies.",
       "items": [
         {
@@ -15,7 +51,7 @@
             "last_commit": "2026-05-29T12:31:22Z",
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3155
+            "stars": 3157
           }
         },
         {
@@ -30,7 +66,7 @@
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
             "repo": "calvin",
-            "stars": 971
+            "stars": 972
           }
         },
         {
@@ -66,7 +102,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3254
+            "stars": 3256
           }
         },
         {
@@ -81,7 +117,7 @@
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
             "repo": "calvin",
-            "stars": 971
+            "stars": 972
           }
         }
       ],
@@ -99,10 +135,10 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-24T03:51:06Z",
+            "last_commit": "2026-08-24T09:58:23Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26858
+            "stars": 26872
           }
         },
         {
@@ -117,7 +153,7 @@
             "last_commit": "2026-08-11T04:01:59Z",
             "owner": "Thinklab-SJTU",
             "repo": "Bench2Drive",
-            "stars": 1927
+            "stars": 1926
           }
         },
         {
@@ -132,7 +168,7 @@
             "last_commit": "2025-08-27T05:24:55Z",
             "owner": "motional",
             "repo": "nuplan-devkit",
-            "stars": 1027
+            "stars": 1028
           }
         },
         {
@@ -169,6 +205,48 @@
       "title": "Evaluation Methodology"
     },
     {
+      "description": "Generative and predictive models of physical dynamics used for planning, simulation, and pretraining.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robotic World Model (ETH RSL)",
+          "description": "Learned world model for legged robots from ETH Zurich's Robotic Systems Lab; companion lite variant for lighter-weight experimentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1103233444,
+            "language": "Python",
+            "last_commit": "2026-04-08T09:14:44Z",
+            "owner": "leggedrobotics",
+            "repo": "robotic_world_model",
+            "stars": 670
+          }
+        }
+      ],
+      "title": "World Models"
+    },
+    {
+      "description": "Methods, models, and tools for grasping, dexterous manipulation, and contact-rich tasks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Contact-GraspNet",
+          "description": "Grasp pose generation directly from partial point clouds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 351175332,
+            "language": "Python",
+            "last_commit": "2024-11-21T07:12:20Z",
+            "owner": "NVlabs",
+            "repo": "contact_graspnet",
+            "stars": 522
+          }
+        }
+      ],
+      "title": "Manipulation"
+    },
+    {
       "description": "Legged, bipedal, and humanoid locomotion — controllers, learning approaches, and reference platforms.",
       "items": [
         {
@@ -183,7 +261,7 @@
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3858
+            "stars": 3861
           }
         },
         {
@@ -198,7 +276,7 @@
             "last_commit": "2026-08-18T15:44:51Z",
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 2909
+            "stars": 2912
           }
         },
         {
@@ -331,8 +409,65 @@
       "title": "Safety & Robustness"
     },
     {
+      "description": "Middleware, runtime stacks, and reference patterns for shipping robots in production.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rosbag2",
+          "description": "Standard ROS 2 recording and replay pipeline for debugging and incident analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127306752,
+            "language": "C++",
+            "last_commit": "2026-08-24T08:19:10Z",
+            "owner": "ros2",
+            "repo": "rosbag2",
+            "stars": 433
+          }
+        }
+      ],
+      "title": "Production Patterns / Reference Architectures"
+    },
+    {
+      "description": "Hands-on learning resources.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LeRobot Tutorials",
+          "description": "Getting started with robot learning using Hugging Face's framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748713144,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:58:23Z",
+            "owner": "huggingface",
+            "repo": "lerobot",
+            "stars": 26872
+          }
+        }
+      ],
+      "title": "Tutorials & Guides"
+    },
+    {
       "description": "Physical robots for research and development.\nArms & Manipulators\nHumanoids\nMobile Robots\nLow-Cost & DIY",
       "items": [
+        {
+          "node_type": "item",
+          "title": "DexUMI Code & Data",
+          "description": "Code and datasets for the Dex-UMI dexterous manipulation benchmark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981844896,
+            "language": "C",
+            "last_commit": "2026-04-18T23:04:19Z",
+            "owner": "real-stanford",
+            "repo": "DexUMI",
+            "stars": 256
+          }
+        },
         {
           "node_type": "item",
           "title": "LeRobot Hardware",
@@ -342,10 +477,10 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-24T03:51:06Z",
+            "last_commit": "2026-08-24T09:58:23Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26858
+            "stars": 26872
           }
         },
         {
@@ -360,7 +495,7 @@
             "last_commit": "2026-08-05T09:21:21Z",
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7176
+            "stars": 7179
           }
         }
       ],
@@ -381,7 +516,7 @@
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12528
+            "stars": 12529
           }
         },
         {
@@ -569,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:53:20.685Z",
+    "last_updated": "2026-08-24T14:36:48.598Z",
     "original_repository": "natnew/awesome-physical-ai",
     "original_repository_id": 1128508841,
     "original_repository_sha": "24d9b4aca05cd95d2740d3845030ecc2b7faf415",
