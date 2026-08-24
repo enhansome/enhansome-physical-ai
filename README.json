@@ -15,7 +15,7 @@
             "last_commit": "2026-05-29T12:31:22Z",
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3149
+            "stars": 3155
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
             "repo": "calvin",
-            "stars": 970
+            "stars": 971
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
             "repo": "calvin",
-            "stars": 970
+            "stars": 971
           }
         }
       ],
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-23T03:51:15Z",
+            "last_commit": "2026-08-24T03:51:06Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26838
+            "stars": 26858
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-08-27T05:24:55Z",
             "owner": "motional",
             "repo": "nuplan-devkit",
-            "stars": 1026
+            "stars": 1027
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3853
+            "stars": 3858
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-18T15:44:51Z",
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 2905
+            "stars": 2909
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-04-29T14:25:54Z",
             "owner": "learnsyslab",
             "repo": "safe-control-gym",
-            "stars": 912
+            "stars": 913
           }
         },
         {
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-23T03:51:15Z",
+            "last_commit": "2026-08-24T03:51:06Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26838
+            "stars": 26858
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-05T09:21:21Z",
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7168
+            "stars": 7176
           }
         }
       ],
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12527
+            "stars": 12528
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6975
+            "stars": 6978
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3023
+            "stars": 3025
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-14T13:55:45Z",
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
-            "stars": 1855
+            "stars": 1856
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-04-06T15:10:18Z",
             "owner": "zita-ch",
             "repo": "bipedal-robot-learning-collection",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:44:04.488Z",
+    "last_updated": "2026-08-24T04:53:20.685Z",
     "original_repository": "natnew/awesome-physical-ai",
     "original_repository_id": 1128508841,
     "original_repository_sha": "24d9b4aca05cd95d2740d3845030ecc2b7faf415",
