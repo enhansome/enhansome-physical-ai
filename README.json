@@ -15,7 +15,7 @@
             "last_commit": "2025-10-22T02:13:14Z",
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14693
+            "stars": 14694
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3258
+            "stars": 3259
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-25T03:48:20Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26891
+            "stars": 26897
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3865
+            "stars": 3864
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-25T03:48:20Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26891
+            "stars": 26897
           }
         }
       ],
@@ -480,7 +480,7 @@
             "last_commit": "2026-08-25T03:48:20Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26891
+            "stars": 26897
           }
         },
         {
@@ -704,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:46:06.685Z",
+    "last_updated": "2026-08-25T06:31:13.814Z",
     "original_repository": "natnew/awesome-physical-ai",
     "original_repository_id": 1128508841,
     "original_repository_sha": "24d9b4aca05cd95d2740d3845030ecc2b7faf415",
