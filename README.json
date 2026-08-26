@@ -15,7 +15,7 @@
             "last_commit": "2025-10-22T02:13:14Z",
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14694
+            "stars": 14698
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3259
+            "stars": 3261
           }
         },
         {
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-25T03:48:20Z",
+            "last_commit": "2026-08-26T03:51:51Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26897
+            "stars": 26916
           }
         },
         {
@@ -180,7 +180,7 @@
             "archived": false,
             "id": 158166716,
             "language": "Python",
-            "last_commit": "2026-07-29T12:30:00Z",
+            "last_commit": "2026-08-25T19:31:42Z",
             "owner": "carla-simulator",
             "repo": "scenario_runner",
             "stars": 679
@@ -240,7 +240,7 @@
             "last_commit": "2024-11-21T07:12:20Z",
             "owner": "NVlabs",
             "repo": "contact_graspnet",
-            "stars": 522
+            "stars": 523
           }
         }
       ],
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3864
+            "stars": 3870
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 418503284,
             "language": "Python",
-            "last_commit": "2026-08-18T15:44:51Z",
+            "last_commit": "2026-08-25T10:04:45Z",
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 2914
+            "stars": 2915
           }
         },
         {
@@ -441,10 +441,10 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-25T03:48:20Z",
+            "last_commit": "2026-08-26T03:51:51Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26897
+            "stars": 26916
           }
         }
       ],
@@ -465,7 +465,7 @@
             "last_commit": "2026-04-18T23:04:19Z",
             "owner": "real-stanford",
             "repo": "DexUMI",
-            "stars": 256
+            "stars": 257
           }
         },
         {
@@ -477,10 +477,10 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-25T03:48:20Z",
+            "last_commit": "2026-08-26T03:51:51Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26897
+            "stars": 26916
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-08-05T09:21:21Z",
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7186
+            "stars": 7194
           }
         }
       ],
@@ -516,7 +516,7 @@
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12531
+            "stars": 12533
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6978
+            "stars": 6981
           }
         },
         {
@@ -558,10 +558,10 @@
             "archived": false,
             "id": 56404753,
             "language": "Python",
-            "last_commit": "2026-08-06T23:31:04Z",
+            "last_commit": "2026-08-25T20:20:58Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3026
+            "stars": 3027
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-14T13:55:45Z",
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
-            "stars": 1857
+            "stars": 1858
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-04T15:56:42Z",
             "owner": "natnew",
             "repo": "awesome-ai-scientists",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-25T04:09:50Z",
             "owner": "natnew",
             "repo": "Awesome-Agentic-Engineering",
-            "stars": 3
+            "stars": 4
           }
         }
       ],
@@ -704,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:13.814Z",
+    "last_updated": "2026-08-26T04:47:52.480Z",
     "original_repository": "natnew/awesome-physical-ai",
     "original_repository_id": 1128508841,
     "original_repository_sha": "24d9b4aca05cd95d2740d3845030ecc2b7faf415",
