@@ -48,7 +48,7 @@ Start with [Gymnasium CartPole](https://gymnasium.farama.org/introduction/train_
 Use [MuJoCo](https://mujoco.org/) to understand how control, physics, contacts, and robot dynamics are modelled.
 
 **3. Inspect a modern robot-learning workflow**\
-Browse [LeRobot](https://github.com/huggingface/lerobot) ⭐ 26,973 | 🐛 828 | 🌐 Python | 📅 2026-08-27 to see how robot datasets, policies, training, and evaluation are structured in practice.
+Browse [LeRobot](https://github.com/huggingface/lerobot) ⭐ 26,975 | 🐛 832 | 🌐 Python | 📅 2026-08-27 to see how robot datasets, policies, training, and evaluation are structured in practice.
 
 **4. Explore the frontier of embodied foundation models**\
 Look at [OpenVLA](https://openvla.github.io/) to understand how vision-language-action models connect perception, language, and robot control.
@@ -215,7 +215,7 @@ Task suites and standardised evaluations for manipulation, locomotion, and embod
 
 Harnesses, metrics, and methodology for measuring robot policy performance, robustness, and sim-to-real validity.
 
-* [LeRobot Evaluation Scripts](https://github.com/huggingface/lerobot) ⭐ 26,973 | 🐛 828 | 🌐 Python | 📅 2026-08-27 — Practical evaluation tooling for imitation-learning and policy-regression checks.
+* [LeRobot Evaluation Scripts](https://github.com/huggingface/lerobot) ⭐ 26,975 | 🐛 832 | 🌐 Python | 📅 2026-08-27 — Practical evaluation tooling for imitation-learning and policy-regression checks.
 * [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,927 | 🐛 57 | 🌐 Python | 📅 2026-08-11 — Closed-loop evaluation protocol for end-to-end driving policies.
 * [nuPlan Devkit](https://github.com/motional/nuplan-devkit) ⭐ 1,028 | 🐛 100 | 🌐 Python | 📅 2025-08-27 — End-to-end planning evaluation stack with documented metrics and simulation loops.
 * [CARLA ScenarioRunner](https://github.com/carla-simulator/scenario_runner) ⭐ 680 | 🐛 179 | 🌐 Python | 📅 2026-08-26 — Scenario-based closed-loop evaluation harness for safety-critical driving behaviors.
@@ -562,7 +562,7 @@ Foundational and advanced textbooks.
 
 Hands-on learning resources.
 
-* [LeRobot Tutorials](https://github.com/huggingface/lerobot) ⭐ 26,973 | 🐛 828 | 🌐 Python | 📅 2026-08-27 - Getting started with robot learning using Hugging Face's framework.
+* [LeRobot Tutorials](https://github.com/huggingface/lerobot) ⭐ 26,975 | 🐛 832 | 🌐 Python | 📅 2026-08-27 - Getting started with robot learning using Hugging Face's framework.
 * [Isaac Lab Documentation](https://isaac-sim.github.io/IsaacLab/) - Comprehensive guides for NVIDIA's robot learning framework.
 * [MuJoCo Documentation](https://mujoco.readthedocs.io/) - Official docs with modeling and programming guides.
 * [ROS 2 Tutorials](https://docs.ros.org/en/rolling/Tutorials/) - Official tutorials for getting started with ROS 2.
@@ -673,8 +673,8 @@ Physical robots for research and development.
 
 **Low-Cost & DIY**
 
-* [LeRobot Hardware](https://github.com/huggingface/lerobot) ⭐ 26,973 | 🐛 828 | 🌐 Python | 📅 2026-08-27 - Reference designs for low-cost robot arms.
-* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,207 | 🐛 83 | 📅 2026-08-05 - Open-source anthropomorphic robot arm.
+* [LeRobot Hardware](https://github.com/huggingface/lerobot) ⭐ 26,975 | 🐛 832 | 🌐 Python | 📅 2026-08-27 - Reference designs for low-cost robot arms.
+* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,209 | 🐛 83 | 📅 2026-08-05 - Open-source anthropomorphic robot arm.
 * [ALOHA Hardware](https://tonyzhaozh.github.io/aloha/) - Low-cost bimanual teleoperation system (\~$20k).
 * [Gello](https://wuphilipp.github.io/gello/) - General, low-cost, and intuitive teleoperation framework.
 * [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - Open-source modular robot for legged locomotion research.
@@ -765,8 +765,8 @@ Researchers, engineers, and practitioners shaping Physical AI.
 
 Other curated lists covering adjacent topics.
 
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,537 | 🐛 607 | 📅 2026-08-03 - Broader generative AI resources.
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 6,983 | 🐛 38 | 📅 2024-09-22 - General robotics resources.
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,537 | 🐛 608 | 📅 2026-08-03 - Broader generative AI resources.
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 6,984 | 🐛 38 | 📅 2024-09-22 - General robotics resources.
 * [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,457 | 🐛 10 | 📅 2026-07-17 - LLM/VLM applications in robotics.
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,027 | 🐛 17 | 🌐 Python | 📅 2026-08-25 - Robotics software libraries.
 * [Awesome Embodied Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) ⭐ 1,861 | 🐛 2 | 📅 2026-08-14 - Embodied AI with VLMs and LLMs.
