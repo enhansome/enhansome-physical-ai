@@ -15,8 +15,9 @@
             "last_commit": "2025-10-22T02:13:14Z",
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14699
-          }
+            "stars": 14703
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-06T15:04:10Z",
             "owner": "google",
             "repo": "brax",
-            "stars": 3224
-          }
+            "stars": 3225
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Simulators"
@@ -52,7 +54,8 @@
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
             "stars": 3157
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
             "repo": "calvin",
-            "stars": 972
-          }
+            "stars": 974
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "google-research",
             "repo": "rlds",
             "stars": 493
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Datasets"
@@ -102,8 +107,9 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3266
-          }
+            "stars": 3267
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -117,8 +123,9 @@
             "last_commit": "2025-09-08T08:52:01Z",
             "owner": "mees",
             "repo": "calvin",
-            "stars": 972
-          }
+            "stars": 974
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Benchmarks"
@@ -135,11 +142,12 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-27T05:18:07Z",
+            "last_commit": "2026-08-28T16:08:47Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26975
-          }
+            "stars": 27012
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -153,8 +161,9 @@
             "last_commit": "2026-08-11T04:01:59Z",
             "owner": "Thinklab-SJTU",
             "repo": "Bench2Drive",
-            "stars": 1927
-          }
+            "stars": 1929
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "motional",
             "repo": "nuplan-devkit",
             "stars": 1028
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "carla-simulator",
             "repo": "scenario_runner",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "vikashplus",
             "repo": "robohive",
             "stars": 631
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Evaluation Methodology"
@@ -220,7 +232,8 @@
             "owner": "leggedrobotics",
             "repo": "robotic_world_model",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "World Models"
@@ -241,7 +254,8 @@
             "owner": "NVlabs",
             "repo": "contact_graspnet",
             "stars": 523
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Manipulation"
@@ -261,8 +275,9 @@
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3877
-          }
+            "stars": 3882
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -273,11 +288,12 @@
             "archived": false,
             "id": 418503284,
             "language": "Python",
-            "last_commit": "2026-08-27T07:20:45Z",
+            "last_commit": "2026-08-28T11:53:15Z",
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
             "stars": 2918
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -292,7 +308,8 @@
             "owner": "mit-biomimetics",
             "repo": "fld",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -307,7 +324,8 @@
             "owner": "martius-lab",
             "repo": "wasabi",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -322,7 +340,8 @@
             "owner": "martius-lab",
             "repo": "cassi",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Locomotion"
@@ -343,7 +362,8 @@
             "owner": "PKU-Alignment",
             "repo": "omnisafe",
             "stars": 1149
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -358,7 +378,8 @@
             "owner": "learnsyslab",
             "repo": "safe-control-gym",
             "stars": 913
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -373,7 +394,8 @@
             "owner": "openai",
             "repo": "safety-gym",
             "stars": 602
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -388,7 +410,8 @@
             "owner": "PKU-Alignment",
             "repo": "safety-gymnasium",
             "stars": 579
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -403,7 +426,8 @@
             "owner": "BerkeleyLearnVerify",
             "repo": "VerifAI",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Safety & Robustness"
@@ -420,11 +444,12 @@
             "archived": false,
             "id": 127306752,
             "language": "C++",
-            "last_commit": "2026-08-26T17:24:00Z",
+            "last_commit": "2026-08-28T03:42:26Z",
             "owner": "ros2",
             "repo": "rosbag2",
-            "stars": 434
-          }
+            "stars": 435
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Production Patterns / Reference Architectures"
@@ -441,11 +466,12 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-27T05:18:07Z",
+            "last_commit": "2026-08-28T16:08:47Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26975
-          }
+            "stars": 27012
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Tutorials & Guides"
@@ -466,7 +492,8 @@
             "owner": "real-stanford",
             "repo": "DexUMI",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -477,11 +504,12 @@
             "archived": false,
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-27T05:18:07Z",
+            "last_commit": "2026-08-28T16:08:47Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26975
-          }
+            "stars": 27012
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -495,8 +523,9 @@
             "last_commit": "2026-08-05T09:21:21Z",
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7209
-          }
+            "stars": 7220
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Hardware Platforms"
@@ -516,8 +545,9 @@
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12537
-          }
+            "stars": 12539
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -531,8 +561,9 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6984
-          }
+            "stars": 6985
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -546,8 +577,9 @@
             "last_commit": "2026-07-17T20:28:18Z",
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4457
-          }
+            "stars": 4459
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -562,7 +594,8 @@
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
             "stars": 3027
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -576,8 +609,9 @@
             "last_commit": "2026-08-14T13:55:45Z",
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
-            "stars": 1861
-          }
+            "stars": 1860
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -592,7 +626,8 @@
             "owner": "kengz",
             "repo": "awesome-deep-rl",
             "stars": 899
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -607,7 +642,8 @@
             "owner": "zubair-irshad",
             "repo": "Awesome-Robotics-3D",
             "stars": 819
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -622,7 +658,8 @@
             "owner": "kristery",
             "repo": "Awesome-Imitation-Learning",
             "stars": 610
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -637,7 +674,8 @@
             "owner": "zita-ch",
             "repo": "bipedal-robot-learning-collection",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -652,7 +690,8 @@
             "owner": "operator22th",
             "repo": "awesome-world-models-for-robots",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -667,7 +706,8 @@
             "owner": "natnew",
             "repo": "awesome-ai-scientists",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -682,7 +722,8 @@
             "owner": "natnew",
             "repo": "Awesome-Agentic-AI-Security",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         },
         {
           "node_type": "item",
@@ -697,14 +738,15 @@
             "owner": "natnew",
             "repo": "Awesome-Agentic-Engineering",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:06:05.048Z",
+    "last_updated": "2026-08-28T16:29:58.204Z",
     "original_repository_info": {
       "archived": false,
       "id": 1128508841,
