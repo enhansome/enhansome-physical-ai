@@ -19,7 +19,7 @@
             "open_issues": 430,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14736,
+            "stars": 14737,
             "topics": [
               "computer-animation",
               "game-development",
@@ -167,7 +167,7 @@
             "open_issues": 138,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3352,
+            "stars": 3355,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -229,11 +229,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T09:09:59Z",
-            "open_issues": 943,
+            "last_commit": "2026-09-24T03:42:34Z",
+            "open_issues": 952,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27721,
+            "stars": 27746,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -254,7 +254,7 @@
             "open_issues": 59,
             "owner": "Thinklab-SJTU",
             "repo": "Bench2Drive",
-            "stars": 1947,
+            "stars": 1949,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -326,7 +326,7 @@
             "open_issues": 25,
             "owner": "vikashplus",
             "repo": "robohive",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "benchmarks",
               "environments",
@@ -416,11 +416,11 @@
             "id": 532854029,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T04:03:47Z",
+            "last_commit": "2026-09-23T22:52:08Z",
             "open_issues": 49,
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 4103,
+            "stars": 4110,
             "topics": [
               "mujoco",
               "robotics"
@@ -444,7 +444,7 @@
             "open_issues": 5,
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 3007,
+            "stars": 3011,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -465,7 +465,7 @@
             "open_issues": 0,
             "owner": "mit-biomimetics",
             "repo": "fld",
-            "stars": 368,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -678,8 +678,8 @@
             "id": 127306752,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T21:50:07Z",
-            "open_issues": 133,
+            "last_commit": "2026-09-23T20:27:32Z",
+            "open_issues": 136,
             "owner": "ros2",
             "repo": "rosbag2",
             "stars": 441,
@@ -705,11 +705,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T09:09:59Z",
-            "open_issues": 943,
+            "last_commit": "2026-09-24T03:42:34Z",
+            "open_issues": 952,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27721,
+            "stars": 27746,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -755,11 +755,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T09:09:59Z",
-            "open_issues": 943,
+            "last_commit": "2026-09-24T03:42:34Z",
+            "open_issues": 952,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27721,
+            "stars": 27746,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -776,11 +776,11 @@
             "id": 798981945,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T12:46:39Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-23T15:41:37Z",
+            "open_issues": 87,
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7566,
+            "stars": 7570,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -804,10 +804,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-16T21:39:51Z",
-            "open_issues": 717,
+            "open_issues": 721,
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12668,
+            "stars": 12673,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -837,7 +837,7 @@
             "open_issues": 40,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7187,
+            "stars": 7191,
             "topics": [
               "robotics"
             ]
@@ -860,7 +860,7 @@
             "open_issues": 12,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4473,
+            "stars": 4474,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -1057,40 +1057,13 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-30T07:01:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "operator22th",
             "repo": "awesome-world-models-for-robots",
             "stars": 142,
             "topics": [
               "robotics",
               "world-model"
-            ]
-          },
-          "first_seen": "2026-08-28T16:29:58.204Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Scientists",
-          "description": "AI scientist systems for literature intelligence, hypothesis generation, experiment planning, and scientific communication.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated collection of resources for building “AI Scientist” systems: AI that assists scientific discovery through literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication. 🌟 Star if you like it!",
-            "homepage": "https://natnew.github.io/awesome-ai-scientists/",
-            "id": 1128507345,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-04T15:56:42Z",
-            "open_issues": 3,
-            "owner": "natnew",
-            "repo": "awesome-ai-scientists",
-            "stars": 19,
-            "topics": [
-              "ai-agents",
-              "ai-scientist",
-              "awesome",
-              "awesome-list",
-              "first-time-contributors"
             ]
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -1108,15 +1081,42 @@
             "language": "Astro",
             "license": "MIT",
             "last_commit": "2026-09-22T20:55:23Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "natnew",
             "repo": "Awesome-Agentic-AI-Security",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "agentic-security",
               "ai-security",
               "awesome-list",
               "security"
+            ]
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI Scientists",
+          "description": "AI scientist systems for literature intelligence, hypothesis generation, experiment planning, and scientific communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated collection of resources for building “AI Scientist” systems: AI that assists scientific discovery through literature intelligence, hypothesis generation, experiment planning, tool-use, evaluation, and scientific communication. 🌟 Star if you like it!",
+            "homepage": "https://natnew.github.io/awesome-ai-scientists/",
+            "id": 1128507345,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-24T08:33:49Z",
+            "open_issues": 4,
+            "owner": "natnew",
+            "repo": "awesome-ai-scientists",
+            "stars": 19,
+            "topics": [
+              "ai-agents",
+              "ai-scientist",
+              "awesome",
+              "awesome-list",
+              "first-time-contributors"
             ]
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:13:32.040Z",
+    "last_updated": "2026-09-24T09:11:34.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. 🌟 Star if you like it!",
@@ -1161,11 +1161,11 @@
       "id": 1128508841,
       "language": "MDX",
       "license": "MIT",
-      "last_commit": "2026-09-20T16:46:04Z",
+      "last_commit": "2026-09-23T13:38:57Z",
       "open_issues": 3,
       "owner": "natnew",
       "repo": "awesome-physical-ai",
-      "stars": 145,
+      "stars": 146,
       "topics": [
         "ai",
         "awesome-list",
@@ -1174,7 +1174,7 @@
         "physical-ai"
       ]
     },
-    "original_repository_sha": "b3c83df0c06db1019b34592534aff4018ec30411",
+    "original_repository_sha": "1b1d476301ca66db5cdd093755ebf29a9b7b28f2",
     "enhanced_repository": "enhansome/enhansome-physical-ai",
     "enhanced_repository_description": null,
     "title": "Awesome Appendices with stars"
