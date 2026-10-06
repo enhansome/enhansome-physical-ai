@@ -376,7 +376,7 @@ Methods, models, and tools for grasping, dexterous manipulation, and contact-ric
 Legged, bipedal, and humanoid locomotion — controllers, learning approaches, and reference platforms.
 
 * [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,153 | 🐛 49 | 🌐 Python | 📅 2026-10-05 — Curated high-quality robot models for repeatable locomotion research.
-* [RSL-RL](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,043 | 🐛 9 | 🌐 Python | 📅 2026-09-09 — Fast PPO implementation from ETH Zurich tuned for legged-robot RL on GPU simulators.
+* [RSL-RL](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,044 | 🐛 9 | 🌐 Python | 📅 2026-09-09 — Fast PPO implementation from ETH Zurich tuned for legged-robot RL on GPU simulators.
 * [FLD — Fourier Latent Dynamics (MIT Biomimetics)](https://github.com/mit-biomimetics/fld) ⭐ 368 | 🐛 0 | 🌐 Python | 📅 2024-06-13 — Periodic motion latent representation for learning agile, natural-looking legged locomotion (ICLR 2024).
 * [WASABI (Max Planck / Martius Lab)](https://github.com/martius-lab/wasabi) ⭐ 126 | 🐛 2 | 🌐 Python | 📅 2024-03-21 — Versatile skill learning for quadrupeds via unsupervised motion-prior discovery from unlabeled reference data.
 * [CASSI (Max Planck / Martius Lab)](https://github.com/martius-lab/cassi) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2024-04-06 — Self-supervised adversarial imitation of unlabeled mixed motions for versatile quadruped skill control (ICRA 2023).
@@ -674,7 +674,7 @@ Physical robots for research and development.
 **Low-Cost & DIY**
 
 * [LeRobot Hardware](https://github.com/huggingface/lerobot) ⭐ 27,963 | 🐛 988 | 🌐 Python | 📅 2026-10-06 - Reference designs for low-cost robot arms.
-* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,669 | 🐛 87 | 📅 2026-10-06 - Open-source anthropomorphic robot arm.
+* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,670 | 🐛 87 | 📅 2026-10-06 - Open-source anthropomorphic robot arm.
 * [ALOHA Hardware](https://tonyzhaozh.github.io/aloha/) - Low-cost bimanual teleoperation system (\~$20k).
 * [Gello](https://wuphilipp.github.io/gello/) - General, low-cost, and intuitive teleoperation framework.
 * [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - Open-source modular robot for legged locomotion research.
@@ -765,7 +765,7 @@ Researchers, engineers, and practitioners shaping Physical AI.
 
 Other curated lists covering adjacent topics.
 
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,710 | 🐛 813 | 📅 2026-10-03 - Broader generative AI resources.
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,710 | 🐛 814 | 📅 2026-10-03 - Broader generative AI resources.
 * [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 7,218 | 🐛 43 | 📅 2024-09-22 - General robotics resources.
 * [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,475 | 🐛 17 | 📅 2026-07-17 - LLM/VLM applications in robotics.
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,071 | 🐛 28 | 🌐 Python | 📅 2026-09-18 - Robotics software libraries.
