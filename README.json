@@ -19,7 +19,7 @@
             "open_issues": 432,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14766,
+            "stars": 14765,
             "topics": [
               "computer-animation",
               "game-development",
@@ -46,7 +46,7 @@
             "id": 373310764,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T08:42:18Z",
+            "last_commit": "2026-10-07T14:28:23Z",
             "open_issues": 113,
             "owner": "google",
             "repo": "brax",
@@ -82,7 +82,7 @@
             "open_issues": 38,
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3201,
+            "stars": 3202,
             "topics": [
               "pretraining-for-robotics",
               "robotic-foundation-model",
@@ -108,7 +108,7 @@
             "open_issues": 52,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 997,
+            "stars": 996,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -167,7 +167,7 @@
             "open_issues": 141,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3382,
+            "stars": 3384,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -195,7 +195,7 @@
             "open_issues": 52,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 997,
+            "stars": 996,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -229,11 +229,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T10:24:45Z",
-            "open_issues": 990,
+            "last_commit": "2026-10-08T11:03:16Z",
+            "open_issues": 960,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27979,
+            "stars": 28002,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -297,7 +297,7 @@
             "id": 158166716,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T20:08:43Z",
+            "last_commit": "2026-10-07T15:28:11Z",
             "open_issues": 181,
             "owner": "carla-simulator",
             "repo": "scenario_runner",
@@ -366,7 +366,7 @@
             "open_issues": 4,
             "owner": "leggedrobotics",
             "repo": "robotic_world_model",
-            "stars": 685,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -416,11 +416,11 @@
             "id": 532854029,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T22:49:15Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-07T20:12:54Z",
+            "open_issues": 48,
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 4155,
+            "stars": 4159,
             "topics": [
               "mujoco",
               "robotics"
@@ -440,11 +440,11 @@
             "id": 418503284,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T11:38:40Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-08T10:31:55Z",
+            "open_issues": 12,
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 3047,
+            "stars": 3051,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -570,7 +570,7 @@
             "open_issues": 6,
             "owner": "learnsyslab",
             "repo": "safe-control-gym",
-            "stars": 919,
+            "stars": 921,
             "topics": [
               "cartpole",
               "casadi",
@@ -678,8 +678,8 @@
             "id": 127306752,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T17:02:49Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-08T07:20:30Z",
+            "open_issues": 128,
             "owner": "ros2",
             "repo": "rosbag2",
             "stars": 443,
@@ -705,11 +705,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T10:24:45Z",
-            "open_issues": 990,
+            "last_commit": "2026-10-08T11:03:16Z",
+            "open_issues": 960,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27979,
+            "stars": 28002,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -755,11 +755,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T10:24:45Z",
-            "open_issues": 990,
+            "last_commit": "2026-10-08T11:03:16Z",
+            "open_issues": 960,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27979,
+            "stars": 28002,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -780,10 +780,38 @@
             "open_issues": 87,
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7680,
+            "stars": 7694,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SO-ARM 102",
+          "description": "3D-printable leader-follower arm with five arm degrees of freedom plus a parallel gripper, open CAD, a bill of materials, assembly instructions, and a follower URDF for LeRobot workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source leader + follower robot arm kit: 5 DOF + gripper, PET-CF frame, parallel gripper, LeRobot-compatible. STEP/STL, BOM, print and assembly guide.",
+            "homepage": "https://robonine.com",
+            "id": 1376769300,
+            "language": null,
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-10-08T10:22:49Z",
+            "open_issues": 2,
+            "owner": "roboninecom",
+            "repo": "SO-ARM-102",
+            "stars": 51,
+            "topics": [
+              "3d-printing",
+              "lerobot",
+              "open-hardware",
+              "robot-arm",
+              "robotics",
+              "so-arm"
+            ]
+          },
+          "first_seen": "2026-10-08T11:15:22.243Z"
         }
       ],
       "title": "Hardware Platforms"
@@ -804,10 +832,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-03T17:14:50Z",
-            "open_issues": 823,
+            "open_issues": 830,
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12715,
+            "stars": 12719,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -837,7 +865,7 @@
             "open_issues": 43,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7219,
+            "stars": 7222,
             "topics": [
               "robotics"
             ]
@@ -860,7 +888,7 @@
             "open_issues": 17,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4475,
+            "stars": 4478,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -878,10 +906,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-09-18T12:39:42Z",
-            "open_issues": 28,
+            "open_issues": 30,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3071,
+            "stars": 3074,
             "topics": [
               "awesome",
               "awesome-list",
@@ -915,7 +943,7 @@
             "open_issues": 2,
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
-            "stars": 1897,
+            "stars": 1899,
             "topics": [
               "agent",
               "awesome",
@@ -1060,7 +1088,7 @@
             "open_issues": 1,
             "owner": "operator22th",
             "repo": "awesome-world-models-for-robots",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "robotics",
               "world-model"
@@ -1153,7 +1181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:58:10.395Z",
+    "last_updated": "2026-10-08T11:15:22.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. 🌟 Star if you like it!",
@@ -1161,7 +1189,7 @@
       "id": 1128508841,
       "language": "MDX",
       "license": "MIT",
-      "last_commit": "2026-09-26T01:01:59Z",
+      "last_commit": "2026-10-07T18:28:08Z",
       "open_issues": 13,
       "owner": "natnew",
       "repo": "awesome-physical-ai",
@@ -1174,7 +1202,7 @@
         "physical-ai"
       ]
     },
-    "original_repository_sha": "1b1d476301ca66db5cdd093755ebf29a9b7b28f2",
+    "original_repository_sha": "5ba1e942798c4285affe4f6da877b5d090bdac20",
     "enhanced_repository": "enhansome/enhansome-physical-ai",
     "enhanced_repository_description": null,
     "title": "Awesome Appendices with stars"
