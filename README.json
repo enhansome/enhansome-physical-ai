@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T21:51:41Z",
-            "open_issues": 432,
+            "open_issues": 433,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14788,
+            "stars": 14793,
             "topics": [
               "computer-animation",
               "game-development",
@@ -50,7 +50,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "brax",
-            "stars": 3247,
+            "stars": 3248,
             "topics": [
               "jax",
               "physics-simulation",
@@ -108,7 +108,7 @@
             "open_issues": 52,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 997,
+            "stars": 998,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -164,10 +164,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 144,
+            "open_issues": 145,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3419,
+            "stars": 3423,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -195,7 +195,7 @@
             "open_issues": 52,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 997,
+            "stars": 998,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -229,11 +229,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T08:47:51Z",
-            "open_issues": 1015,
+            "last_commit": "2026-10-16T03:43:53Z",
+            "open_issues": 1016,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28188,
+            "stars": 28218,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -326,7 +326,7 @@
             "open_issues": 25,
             "owner": "vikashplus",
             "repo": "robohive",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "benchmarks",
               "environments",
@@ -357,10 +357,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-14T19:43:46Z",
-            "open_issues": 64,
+            "open_issues": 66,
             "owner": "robocurve",
             "repo": "inspect-robots",
-            "stars": 678,
+            "stars": 681,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -447,10 +447,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-15T04:44:41Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 4198,
+            "stars": 4203,
             "topics": [
               "mujoco",
               "robotics"
@@ -474,7 +474,7 @@
             "open_issues": 8,
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 3065,
+            "stars": 3067,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -600,7 +600,7 @@
             "open_issues": 6,
             "owner": "learnsyslab",
             "repo": "safe-control-gym",
-            "stars": 924,
+            "stars": 926,
             "topics": [
               "cartpole",
               "casadi",
@@ -655,7 +655,7 @@
             "open_issues": 16,
             "owner": "PKU-Alignment",
             "repo": "safety-gymnasium",
-            "stars": 590,
+            "stars": 591,
             "topics": [
               "constraint-rl",
               "constraint-satisfaction-problem",
@@ -709,7 +709,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T13:44:47Z",
-            "open_issues": 126,
+            "open_issues": 128,
             "owner": "ros2",
             "repo": "rosbag2",
             "stars": 442,
@@ -735,11 +735,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T08:47:51Z",
-            "open_issues": 1015,
+            "last_commit": "2026-10-16T03:43:53Z",
+            "open_issues": 1016,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28188,
+            "stars": 28218,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -785,11 +785,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T08:47:51Z",
-            "open_issues": 1015,
+            "last_commit": "2026-10-16T03:43:53Z",
+            "open_issues": 1016,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28188,
+            "stars": 28218,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -810,7 +810,7 @@
             "open_issues": 88,
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7775,
+            "stars": 7785,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -831,7 +831,7 @@
             "open_issues": 0,
             "owner": "roboninecom",
             "repo": "SO-ARM-102",
-            "stars": 139,
+            "stars": 144,
             "topics": [
               "3d-printing",
               "lerobot",
@@ -861,11 +861,11 @@
             "id": 554771302,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-11T21:23:55Z",
-            "open_issues": 912,
+            "last_commit": "2026-10-15T21:22:18Z",
+            "open_issues": 928,
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12738,
+            "stars": 12741,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -895,7 +895,7 @@
             "open_issues": 47,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7239,
+            "stars": 7243,
             "topics": [
               "robotics"
             ]
@@ -918,7 +918,7 @@
             "open_issues": 16,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4487,
+            "stars": 4488,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -939,7 +939,7 @@
             "open_issues": 4,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3082,
+            "stars": 3083,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 2,
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
-            "stars": 1904,
+            "stars": 1906,
             "topics": [
               "agent",
               "awesome",
@@ -1118,7 +1118,7 @@
             "open_issues": 1,
             "owner": "operator22th",
             "repo": "awesome-world-models-for-robots",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "robotics",
               "world-model"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:03:14.197Z",
+    "last_updated": "2026-10-16T08:55:22.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. 🌟 Star if you like it!",
