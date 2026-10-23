@@ -19,7 +19,7 @@
             "open_issues": 435,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14806,
+            "stars": 14809,
             "topics": [
               "computer-animation",
               "game-development",
@@ -82,7 +82,7 @@
             "open_issues": 38,
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3210,
+            "stars": 3211,
             "topics": [
               "pretraining-for-robotics",
               "robotic-foundation-model",
@@ -108,7 +108,7 @@
             "open_issues": 52,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 999,
+            "stars": 1000,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -164,10 +164,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 164,
+            "open_issues": 166,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3452,
+            "stars": 3459,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -195,7 +195,7 @@
             "open_issues": 52,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 999,
+            "stars": 1000,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -229,11 +229,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T09:06:47Z",
-            "open_issues": 845,
+            "last_commit": "2026-10-23T03:44:31Z",
+            "open_issues": 854,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28383,
+            "stars": 28422,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -275,7 +275,7 @@
             "open_issues": 102,
             "owner": "motional",
             "repo": "nuplan-devkit",
-            "stars": 1042,
+            "stars": 1043,
             "topics": [
               "autonomous-driving",
               "machine-learning",
@@ -301,7 +301,7 @@
             "open_issues": 182,
             "owner": "carla-simulator",
             "repo": "scenario_runner",
-            "stars": 683,
+            "stars": 684,
             "topics": [
               "carla",
               "openscenario",
@@ -356,11 +356,11 @@
             "id": 1281030225,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T18:55:15Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-23T02:42:50Z",
+            "open_issues": 75,
             "owner": "robocurve",
             "repo": "inspect-robots",
-            "stars": 699,
+            "stars": 700,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -396,40 +396,34 @@
             "open_issues": 4,
             "owner": "leggedrobotics",
             "repo": "robotic_world_model",
-            "stars": 692,
+            "stars": 693,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
-        }
-      ],
-      "title": "World Models"
-    },
-    {
-      "description": "Methods, models, and tools for grasping, dexterous manipulation, and contact-rich tasks.",
-      "items": [
+        },
         {
           "node_type": "item",
-          "title": "Contact-GraspNet",
-          "description": "Grasp pose generation directly from partial point clouds.",
+          "title": "GreenWAM (Sber Robotics Center)",
+          "description": "World foundation model built on Cosmos 3 Edge that acts as both world model and policy across 20 robot families via a shared anatomical joint space, with released benchmark checkpoints and evaluation code.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Efficient 6-DoF Grasp Generation in Cluttered Scenes",
-            "homepage": null,
-            "id": 351175332,
+            "description": "GreenWAM: A World Foundation Model for Robotics",
+            "homepage": "https://greenvla.github.io/GreenWAM/",
+            "id": 1417050580,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2024-11-21T07:12:20Z",
-            "open_issues": 25,
-            "owner": "NVlabs",
-            "repo": "contact_graspnet",
-            "stars": 540,
+            "last_commit": "2026-10-14T14:57:11Z",
+            "open_issues": 2,
+            "owner": "greenvla",
+            "repo": "GreenWAM",
+            "stars": 8,
             "topics": []
           },
-          "first_seen": "2026-08-28T16:29:58.204Z"
+          "first_seen": "2026-10-23T09:14:37.038Z"
         }
       ],
-      "title": "Manipulation"
+      "title": "World Models"
     },
     {
       "description": "Legged, bipedal, and humanoid locomotion — controllers, learning approaches, and reference platforms.",
@@ -450,7 +444,7 @@
             "open_issues": 56,
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 4245,
+            "stars": 4253,
             "topics": [
               "mujoco",
               "robotics"
@@ -474,7 +468,7 @@
             "open_issues": 9,
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 3082,
+            "stars": 3086,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -495,7 +489,7 @@
             "open_issues": 0,
             "owner": "mit-biomimetics",
             "repo": "fld",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -634,7 +628,7 @@
             "open_issues": 16,
             "owner": "openai",
             "repo": "safety-gym",
-            "stars": 602,
+            "stars": 603,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -708,7 +702,7 @@
             "id": 127306752,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T01:20:57Z",
+            "last_commit": "2026-10-22T21:02:55Z",
             "open_issues": 132,
             "owner": "ros2",
             "repo": "rosbag2",
@@ -735,11 +729,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T09:06:47Z",
-            "open_issues": 845,
+            "last_commit": "2026-10-23T03:44:31Z",
+            "open_issues": 854,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28383,
+            "stars": 28422,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -775,6 +769,27 @@
         },
         {
           "node_type": "item",
+          "title": "RoboParty RP1",
+          "description": "Open-source humanoid platform releasing mechanical CAD, PCB and harness designs, BOM, joint-module firmware, robot descriptions and locomotion training code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RP1: An OpenSource Full-Stack Platform for Agentic Humanoids",
+            "homepage": "https://roboparty.com/products/RP1",
+            "id": 1400139068,
+            "language": null,
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-20T12:28:09Z",
+            "open_issues": 0,
+            "owner": "Roboparty",
+            "repo": "RP1",
+            "stars": 716,
+            "topics": []
+          },
+          "first_seen": "2026-10-23T09:14:37.038Z"
+        },
+        {
+          "node_type": "item",
           "title": "LeRobot Hardware",
           "description": "Reference designs for low-cost robot arms.",
           "children": [],
@@ -785,11 +800,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T09:06:47Z",
-            "open_issues": 845,
+            "last_commit": "2026-10-23T03:44:31Z",
+            "open_issues": 854,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28383,
+            "stars": 28422,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -807,10 +822,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T07:26:52Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7836,
+            "stars": 7852,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -827,8 +842,8 @@
             "id": 1376769300,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-21T11:53:21Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-23T08:25:26Z",
+            "open_issues": 0,
             "owner": "roboninecom",
             "repo": "SO-ARM-102",
             "stars": 165,
@@ -898,10 +913,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-15T21:22:18Z",
-            "open_issues": 1034,
+            "open_issues": 1039,
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12750,
+            "stars": 12748,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -975,7 +990,7 @@
             "open_issues": 7,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3089,
+            "stars": 3091,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1009,7 +1024,7 @@
             "open_issues": 2,
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
-            "stars": 1906,
+            "stars": 1907,
             "topics": [
               "agent",
               "awesome",
@@ -1133,7 +1148,7 @@
             "open_issues": 2,
             "owner": "zita-ch",
             "repo": "bipedal-robot-learning-collection",
-            "stars": 468,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -1174,7 +1189,7 @@
             "id": 1224236735,
             "language": "Astro",
             "license": "MIT",
-            "last_commit": "2026-10-13T20:33:54Z",
+            "last_commit": "2026-10-22T17:01:19Z",
             "open_issues": 19,
             "owner": "natnew",
             "repo": "Awesome-Agentic-AI-Security",
@@ -1200,7 +1215,7 @@
             "id": 1128507345,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:46:58Z",
+            "last_commit": "2026-10-22T17:01:01Z",
             "open_issues": 5,
             "owner": "natnew",
             "repo": "awesome-ai-scientists",
@@ -1227,8 +1242,8 @@
             "id": 1186977349,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-18T13:01:42Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-22T15:57:18Z",
+            "open_issues": 4,
             "owner": "natnew",
             "repo": "Awesome-Agentic-Engineering",
             "stars": 4,
@@ -1247,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T09:18:46.422Z",
+    "last_updated": "2026-10-23T09:14:37.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. 🌟 Star if you like it!",
@@ -1255,8 +1270,8 @@
       "id": 1128508841,
       "language": "MDX",
       "license": "MIT",
-      "last_commit": "2026-10-18T12:16:16Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-22T14:01:30Z",
+      "open_issues": 32,
       "owner": "natnew",
       "repo": "awesome-physical-ai",
       "stars": 167,
@@ -1268,7 +1283,7 @@
         "physical-ai"
       ]
     },
-    "original_repository_sha": "8313d63bb820623e2c90507cbe4a0d90215cd3ed",
+    "original_repository_sha": "25e3d52a4e993b0c15ef0768189287259bc2ed89",
     "enhanced_repository": "enhansome/enhansome-physical-ai",
     "enhanced_repository_description": null,
     "title": "Awesome Appendices with stars"
