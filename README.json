@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "MuJoCo Playground",
+          "description": "GPU-accelerated robot-learning environments built on MuJoCo MJX and MuJoCo Warp, covering control, locomotion, manipulation and sim-to-real transfer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-source library for sim and real robot demos on top of MuJoCo.",
+            "homepage": null,
+            "id": 898162230,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-31T12:30:12Z",
+            "open_issues": 88,
+            "owner": "google-deepmind",
+            "repo": "mujoco_playground",
+            "stars": 2268,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
           "title": "PyBullet",
           "description": "Open-source physics engine (Bullet) with Python bindings, popular for prototyping and RL.",
           "children": [],
@@ -19,7 +40,7 @@
             "open_issues": 437,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14834,
+            "stars": 14840,
             "topics": [
               "computer-animation",
               "game-development",
@@ -59,6 +80,32 @@
             ]
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Newton",
+          "description": "GPU-accelerated open-source physics engine built on NVIDIA Warp with MuJoCo Warp as its main solver, initiated by Disney Research, Google DeepMind and NVIDIA and hosted by the Linux Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+            "homepage": "https://newton-physics.github.io/newton/stable/",
+            "id": 970467647,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-01T04:39:56Z",
+            "open_issues": 429,
+            "owner": "newton-physics",
+            "repo": "newton",
+            "stars": 5874,
+            "topics": [
+              "newton-physics",
+              "nvidia-warp",
+              "physics-simulation",
+              "robotics"
+            ]
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
         }
       ],
       "title": "Simulators"
@@ -69,7 +116,7 @@
         {
           "node_type": "item",
           "title": "AgiBot World",
-          "description": "Large-scale dataset designed to train and evaluate robot foundation models.",
+          "description": "Large-scale manipulation platform (AgiBot World Colosseo, IROS 2025) pairing a 1M+ trajectory bimanual dataset with the open GO-1 generalist policy trained on it.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -82,7 +129,7 @@
             "open_issues": 39,
             "owner": "OpenDriveLab",
             "repo": "AgiBot-World",
-            "stars": 3217,
+            "stars": 3219,
             "topics": [
               "pretraining-for-robotics",
               "robotic-foundation-model",
@@ -167,7 +214,7 @@
             "open_issues": 167,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3477,
+            "stars": 3478,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -210,6 +257,31 @@
             ]
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PAI-Bench",
+          "description": "Benchmark of 2,808 real-world cases that scores physical plausibility in video generation, conditional generation and video understanding (CVPR 2026).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CVPR 2026 Oral] PAI-Bench: A Comprehensive Benchmark for Physical AI",
+            "homepage": "https://arxiv.org/abs/2512.01989",
+            "id": 1053601597,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-23T06:05:57Z",
+            "open_issues": 4,
+            "owner": "SHI-Labs",
+            "repo": "physical-ai-bench",
+            "stars": 106,
+            "topics": [
+              "benchmark",
+              "physical-ai",
+              "world-model"
+            ]
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
         }
       ],
       "title": "Benchmarks"
@@ -229,11 +301,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T03:31:38Z",
-            "open_issues": 861,
+            "last_commit": "2026-11-01T03:32:29Z",
+            "open_issues": 877,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28604,
+            "stars": 28621,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -275,7 +347,7 @@
             "open_issues": 102,
             "owner": "motional",
             "repo": "nuplan-devkit",
-            "stars": 1047,
+            "stars": 1048,
             "topics": [
               "autonomous-driving",
               "machine-learning",
@@ -301,7 +373,7 @@
             "open_issues": 182,
             "owner": "carla-simulator",
             "repo": "scenario_runner",
-            "stars": 685,
+            "stars": 686,
             "topics": [
               "carla",
               "openscenario",
@@ -360,7 +432,7 @@
             "open_issues": 82,
             "owner": "robocurve",
             "repo": "inspect-robots",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -378,8 +450,145 @@
       "title": "Evaluation Methodology"
     },
     {
+      "description": "Generalist policies and vision-language-action (VLA) models for robotic control.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openpi (Physical Intelligence)",
+          "description": "Open weights plus fine-tuning and inference code for π0, π0-FAST and π0.5, with base checkpoints pretrained on 10k+ hours of robot data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 876210014,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-24T16:27:13Z",
+            "open_issues": 370,
+            "owner": "Physical-Intelligence",
+            "repo": "openpi",
+            "stars": 14489,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Isaac GR00T N1.x (NVIDIA)",
+          "description": "Open humanoid VLA foundation model family (N1 through N1.7) with weights and fine-tuning code; the companion GR00T-Dreams blueprint generates synthetic training trajectories with Cosmos world models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.",
+            "homepage": "https://developer.nvidia.com/isaac/gr00t",
+            "id": 946829547,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-29T23:46:21Z",
+            "open_issues": 346,
+            "owner": "NVIDIA",
+            "repo": "Isaac-GR00T",
+            "stars": 8297,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RDT2 (Tsinghua)",
+          "description": "VLA trained on 10,000+ hours of UMI human manipulation data for zero-shot deployment on unseen robot embodiments; successor to RDT-1B, a diffusion transformer for bimanual manipulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official code of RDT 2",
+            "homepage": null,
+            "id": 1059940274,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-02-07T05:21:04Z",
+            "open_issues": 19,
+            "owner": "thu-ml",
+            "repo": "RDT2",
+            "stars": 807,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WALL-OSS (X Square Robot)",
+          "description": "Open embodied foundation models (WALL-OSS, WALL-OSS-0.5) with flow-matching and FAST action heads, released with training and inference code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Building General-Purpose Robots Based on Embodied Foundation Model",
+            "homepage": "https://x2robot.com/en/research",
+            "id": 1050222011,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-18T06:48:24Z",
+            "open_issues": 53,
+            "owner": "X-Square-Robot",
+            "repo": "wall-x",
+            "stars": 1307,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BFM-Zero",
+          "description": "Promptable behavioral foundation model for humanoid control that uses unsupervised forward-backward RL so one policy handles motion tracking, goal reaching and reward optimization (ICLR 2026).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "BFM_Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning",
+            "homepage": "https://lecar-lab.github.io/BFM-Zero/",
+            "id": 1089172105,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-21T06:15:17Z",
+            "open_issues": 5,
+            "owner": "LeCAR-Lab",
+            "repo": "BFM-Zero",
+            "stars": 834,
+            "topics": [
+              "humanoid",
+              "reinforcement-learning",
+              "sim2real",
+              "unsupervised-learning"
+            ]
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        }
+      ],
+      "title": "Robotics Foundation Models"
+    },
+    {
       "description": "Generative and predictive models of physical dynamics used for planning, simulation, and pretraining.",
       "items": [
+        {
+          "node_type": "item",
+          "title": "NVIDIA Cosmos",
+          "description": "World foundation model platform whose current Cosmos 3 family (Edge, Nano and Super) provides open omnimodal models that act as world models and as backbones for world-action models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+            "homepage": "https://www.nvidia.com/en-us/ai/cosmos/",
+            "id": 910176789,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-30T04:58:28Z",
+            "open_issues": 27,
+            "owner": "NVIDIA",
+            "repo": "cosmos",
+            "stars": 12221,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
         {
           "node_type": "item",
           "title": "Robotic World Model (ETH RSL)",
@@ -421,9 +630,99 @@
             "topics": []
           },
           "first_seen": "2026-10-23T09:14:37.038Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DreamDojo (NVIDIA)",
+          "description": "Robot world model pretrained on 44k hours of egocentric human video using latent actions, then post-trained for action-conditioned prediction on robot data (ICML 2026).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Codebase for \"DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos\" (ICML 2026)",
+            "homepage": "https://dreamdojo-world.github.io",
+            "id": 1153657100,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-21T19:03:33Z",
+            "open_issues": 19,
+            "owner": "NVIDIA",
+            "repo": "DreamDojo",
+            "stars": 1125,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
         }
       ],
       "title": "World Models"
+    },
+    {
+      "description": "Methods, models, and tools for grasping, dexterous manipulation, and contact-rich tasks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TWIST2",
+          "description": "Portable, mocap-free whole-body humanoid teleoperation and data-collection system using a VR headset and a low-cost robot neck for egocentric vision.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System",
+            "homepage": "https://yanjieze.com/TWIST2",
+            "id": 1089879775,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-23T22:34:39Z",
+            "open_issues": 37,
+            "owner": "amazon-far",
+            "repo": "TWIST2",
+            "stars": 894,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Contact-GraspNet",
+          "description": "Grasp pose generation directly from partial point clouds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Efficient 6-DoF Grasp Generation in Cluttered Scenes",
+            "homepage": null,
+            "id": 351175332,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2024-11-21T07:12:20Z",
+            "open_issues": 25,
+            "owner": "NVlabs",
+            "repo": "contact_graspnet",
+            "stars": 544,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OSMO",
+          "description": "Tactile glove with shear and normal force sensing, worn by both human demonstrators and robot hands to transfer contact-rich skills, with released hardware designs and firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source tactile glove for robotics research",
+            "homepage": null,
+            "id": 1082776755,
+            "language": "C",
+            "license": null,
+            "last_commit": "2026-10-26T22:41:30Z",
+            "open_issues": 4,
+            "owner": "jessicayin",
+            "repo": "osmo_tactile_glove",
+            "stars": 85,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        }
+      ],
+      "title": "Manipulation"
     },
     {
       "description": "Legged, bipedal, and humanoid locomotion — controllers, learning approaches, and reference platforms.",
@@ -440,11 +739,11 @@
             "id": 532854029,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T00:17:23Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-31T11:03:05Z",
+            "open_issues": 60,
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 4295,
+            "stars": 4299,
             "topics": [
               "mujoco",
               "robotics"
@@ -468,7 +767,7 @@
             "open_issues": 11,
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
-            "stars": 3110,
+            "stars": 3112,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -558,7 +857,7 @@
             "open_issues": 29,
             "owner": "PKU-Alignment",
             "repo": "omnisafe",
-            "stars": 1159,
+            "stars": 1160,
             "topics": [
               "benchmark",
               "constraint-rl",
@@ -594,7 +893,7 @@
             "open_issues": 6,
             "owner": "learnsyslab",
             "repo": "safe-control-gym",
-            "stars": 931,
+            "stars": 932,
             "topics": [
               "cartpole",
               "casadi",
@@ -683,6 +982,69 @@
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
+        },
+        {
+          "node_type": "item",
+          "title": "IS-Bench",
+          "description": "Interactive-safety benchmark of 161 household scenarios and 388 safety risks in OmniGibson that checks whether VLM-driven agents mitigate risks at the right step (AAAI 2026).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[AAAI 2026] Data and Code for Paper IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks",
+            "homepage": "https://ursulalujun.github.io/isbench.github.io/",
+            "id": 1015240750,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-11-24T12:00:51Z",
+            "open_issues": 1,
+            "owner": "AI45Lab",
+            "repo": "IS-Bench",
+            "stars": 56,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SafeVLA",
+          "description": "Constrained-learning method that aligns vision-language-action models with explicit safety constraints for mobile manipulation (NeurIPS 2025).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[NeurIPS 2025 Spotlight] Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning.",
+            "homepage": "https://pku-safevla.github.io/",
+            "id": 939851266,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-03-31T20:53:14Z",
+            "open_issues": 0,
+            "owner": "PKU-Alignment",
+            "repo": "SafeVLA",
+            "stars": 163,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RoboGuard",
+          "description": "Guardrail that compiles safety rules into temporal-logic constraints and checks LLM-generated robot plans against them, including under jailbreak attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Safety guardrails for LLM-enabled robots",
+            "homepage": "https://robo-guard.github.io/",
+            "id": 951547102,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-10-01T00:11:49Z",
+            "open_issues": 0,
+            "owner": "KumarRobotics",
+            "repo": "RoboGuard",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
         }
       ],
       "title": "Safety & Robustness"
@@ -729,17 +1091,71 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T03:31:38Z",
-            "open_issues": 861,
+            "last_commit": "2026-11-01T03:32:29Z",
+            "open_issues": 877,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28604,
+            "stars": 28621,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
         }
       ],
       "title": "Tutorials & Guides"
+    },
+    {
+      "description": "Comprehensive overviews of key areas.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Survey: Learning Embodied Intelligence from Physical Simulators and World Models",
+          "description": "Survey connecting physical simulators and world models for embodied AI, with a maintained companion repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1006934075,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2025-10-03T19:47:20Z",
+            "open_issues": 3,
+            "owner": "NJU3DV-LoongGroup",
+            "repo": "Embodied-World-Models-Survey",
+            "stars": 266,
+            "topics": []
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Efficient Vision-Language-Action Models",
+          "description": "Taxonomy of efficient VLA model design, training and data collection (IEEE TPAMI 2026), with a maintained paper list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[TPAMI 2026]🔥This is a curated list of \"A survey on Efficient Vision-Language Action Models\" research. We will continue to maintain and update the repository, so follow us to keep up with the latest developments!!!",
+            "homepage": null,
+            "id": 1055452952,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-10T02:14:16Z",
+            "open_issues": 0,
+            "owner": "YuZhaoshu",
+            "repo": "Efficient-VLAs-Survey",
+            "stars": 206,
+            "topics": [
+              "efficient",
+              "embodied-ai",
+              "vision-language-action",
+              "vision-language-action-model",
+              "vla"
+            ]
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
+        }
+      ],
+      "title": "Survey Papers"
     },
     {
       "description": "Physical robots for research and development.\nArms & Manipulators\nHumanoids\nMobile Robots\nLow-Cost & DIY",
@@ -783,7 +1199,7 @@
             "open_issues": 0,
             "owner": "Roboparty",
             "repo": "RP1",
-            "stars": 1062,
+            "stars": 1086,
             "topics": []
           },
           "first_seen": "2026-10-23T09:14:37.038Z"
@@ -800,11 +1216,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T03:31:38Z",
-            "open_issues": 861,
+            "last_commit": "2026-11-01T03:32:29Z",
+            "open_issues": 877,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28604,
+            "stars": 28621,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -825,7 +1241,7 @@
             "open_issues": 90,
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 7940,
+            "stars": 7955,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -842,11 +1258,11 @@
             "id": 1376769300,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-31T00:38:15Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-01T01:08:47Z",
+            "open_issues": 3,
             "owner": "roboninecom",
             "repo": "SO-ARM102",
-            "stars": 175,
+            "stars": 177,
             "topics": [
               "3d-printing",
               "imitation-learning",
@@ -922,10 +1338,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-30T17:31:48Z",
-            "open_issues": 1186,
+            "open_issues": 1198,
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12791,
+            "stars": 12793,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -952,10 +1368,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7271,
+            "stars": 7272,
             "topics": [
               "robotics"
             ]
@@ -975,10 +1391,10 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-29T04:41:10Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4495,
+            "stars": 4496,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -999,7 +1415,7 @@
             "open_issues": 7,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3099,
+            "stars": 3100,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1061,10 +1477,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-07-13T16:02:20Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "kengz",
             "repo": "awesome-deep-rl",
-            "stars": 901,
+            "stars": 902,
             "topics": [
               "awesome-list",
               "deep-reinforcement-learning",
@@ -1140,6 +1556,31 @@
             ]
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome VLA for Humanoid Robots (OpenDriveLab)",
+          "description": "Paper list on vision-language-action models for humanoid robots, maintained in the WholeBodyVLA (ICLR 2026) repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICLR 2026] Towards Unified Latent VLA for Whole-body Loco-manipulation Control",
+            "homepage": "https://opendrivelab.com/WholebodyVLA",
+            "id": 1113952243,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-05-25T07:44:19Z",
+            "open_issues": 1,
+            "owner": "OpenDriveLab",
+            "repo": "WholebodyVLA",
+            "stars": 580,
+            "topics": [
+              "humanoid-robot",
+              "loco-manipulation",
+              "vision-language-action"
+            ]
+          },
+          "first_seen": "2026-11-01T11:10:43.535Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1693,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-22T15:57:18Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "natnew",
             "repo": "Awesome-Agentic-Engineering",
             "stars": 4,
@@ -1271,7 +1712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:17:00.540Z",
+    "last_updated": "2026-11-01T11:10:43.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. 🌟 Star if you like it!",
@@ -1279,8 +1720,8 @@
       "id": 1128508841,
       "language": "MDX",
       "license": "MIT",
-      "last_commit": "2026-10-26T10:16:10Z",
-      "open_issues": 35,
+      "last_commit": "2026-11-01T03:50:18Z",
+      "open_issues": 7,
       "owner": "natnew",
       "repo": "awesome-physical-ai",
       "stars": 168,
@@ -1292,7 +1733,7 @@
         "physical-ai"
       ]
     },
-    "original_repository_sha": "25e3d52a4e993b0c15ef0768189287259bc2ed89",
+    "original_repository_sha": "1004ae4d0071a84d9ca9771273a06bb740de56b8",
     "enhanced_repository": "enhansome/enhansome-physical-ai",
     "enhanced_repository_description": null,
     "title": "Awesome Appendices with stars"
