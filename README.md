@@ -50,7 +50,7 @@ Start with [Gymnasium CartPole](https://gymnasium.farama.org/introduction/train_
 Use [MuJoCo](https://mujoco.org/) to understand how control, physics, contacts, and robot dynamics are modelled.
 
 **3. Inspect a modern robot-learning workflow**\
-Browse [LeRobot](https://github.com/huggingface/lerobot) ⭐ 28,645 | 🐛 890 | 🌐 Python | 📅 2026-11-02 to see how robot datasets, policies, training, and evaluation are structured in practice.
+Browse [LeRobot](https://github.com/huggingface/lerobot) ⭐ 28,657 | 🐛 891 | 🌐 Python | 📅 2026-11-03 to see how robot datasets, policies, training, and evaluation are structured in practice.
 
 **4. Explore the frontier of embodied foundation models**\
 Look at [OpenVLA](https://openvla.github.io/) to understand how vision-language-action models connect perception, language, and robot control.
@@ -117,7 +117,7 @@ Physics engines and high-fidelity simulation environments for robotics and embod
 
 <!-- tags: simulator, open-source, production-ready -->
 
-* [MuJoCo Playground](https://github.com/google-deepmind/mujoco_playground) ⭐ 2,269 | 🐛 89 | 🌐 Python | 📅 2026-11-01 — GPU-accelerated robot-learning environments built on MuJoCo MJX and MuJoCo Warp, covering control, locomotion, manipulation and sim-to-real transfer.
+* [MuJoCo Playground](https://github.com/google-deepmind/mujoco_playground) ⭐ 2,272 | 🐛 91 | 🌐 Python | 📅 2026-11-03 — GPU-accelerated robot-learning environments built on MuJoCo MJX and MuJoCo Warp, covering control, locomotion, manipulation and sim-to-real transfer.
 
 <!-- tags: simulator, framework, open-source -->
 
@@ -137,7 +137,7 @@ Physics engines and high-fidelity simulation environments for robotics and embod
 
 <!-- tags: simulator, open-source, production-ready -->
 
-* [PyBullet](https://github.com/bulletphysics/bullet3) ⭐ 14,841 | 🐛 437 | 🌐 C++ | 📅 2026-10-09 — Open-source physics engine (Bullet) with Python bindings, popular for prototyping and RL.
+* [PyBullet](https://github.com/bulletphysics/bullet3) ⭐ 14,843 | 🐛 438 | 🌐 C++ | 📅 2026-10-09 — Open-source physics engine (Bullet) with Python bindings, popular for prototyping and RL.
 
 <!-- tags: simulator, tool, open-source -->
 
@@ -177,7 +177,7 @@ Physics engines and high-fidelity simulation environments for robotics and embod
 
 <!-- tags: simulator, tool, commercial -->
 
-* [Newton](https://github.com/newton-physics/newton) ⭐ 5,878 | 🐛 445 | 🌐 Python | 📅 2026-11-02 — GPU-accelerated open-source physics engine built on NVIDIA Warp with MuJoCo Warp as its main solver, initiated by Disney Research, Google DeepMind and NVIDIA and hosted by the Linux Foundation.
+* [Newton](https://github.com/newton-physics/newton) ⭐ 5,886 | 🐛 440 | 🌐 Python | 📅 2026-11-03 — GPU-accelerated open-source physics engine built on NVIDIA Warp with MuJoCo Warp as its main solver, initiated by Disney Research, Google DeepMind and NVIDIA and hosted by the Linux Foundation.
 
 <!-- tags: simulator, open-source -->
 
@@ -185,8 +185,8 @@ Physics engines and high-fidelity simulation environments for robotics and embod
 
 Large-scale teleoperation, demonstration, and interaction datasets used to train robot policies.
 
-* [AgiBot World](https://github.com/OpenDriveLab/AgiBot-World) ⭐ 3,221 | 🐛 39 | 🌐 Python | 📅 2026-05-29 — Large-scale manipulation platform (AgiBot World Colosseo, IROS 2025) pairing a 1M+ trajectory bimanual dataset with the open GO-1 generalist policy trained on it.
-* [CALVIN ABC-D](https://github.com/mees/calvin) ⭐ 1,000 | 🐛 52 | 🌐 Python | 📅 2025-09-08 — Language-conditioned manipulation dataset for long-horizon policy training and evaluation.
+* [AgiBot World](https://github.com/OpenDriveLab/AgiBot-World) ⭐ 3,223 | 🐛 39 | 🌐 Python | 📅 2026-05-29 — Large-scale manipulation platform (AgiBot World Colosseo, IROS 2025) pairing a 1M+ trajectory bimanual dataset with the open GO-1 generalist policy trained on it.
+* [CALVIN ABC-D](https://github.com/mees/calvin) ⭐ 1,002 | 🐛 52 | 🌐 Python | 📅 2025-09-08 — Language-conditioned manipulation dataset for long-horizon policy training and evaluation.
 * [RLDS](https://github.com/google-research/rlds) ⚠️ Archived — Standardized format and tooling for logged trajectories used across robot-learning datasets.
 * [Open X-Embodiment](https://robotics-transformer-x.github.io/) — 1M+ trajectories across 22 embodiments; the de facto cross-embodiment training corpus.
 * [DROID](https://droid-dataset.github.io/) — Large-scale, in-the-wild manipulation dataset collected across 13 institutions.
@@ -205,9 +205,9 @@ Large-scale teleoperation, demonstration, and interaction datasets used to train
 
 Task suites and standardised evaluations for manipulation, locomotion, and embodied reasoning.
 
-* [ManiSkill Benchmark](https://github.com/haosulab/ManiSkill) ⭐ 3,479 | 🐛 167 | 🌐 Python | 📅 2026-08-04 — Manipulation benchmark suite with scalable GPU simulation and reproducible baselines.
-* [CALVIN](https://github.com/mees/calvin) ⭐ 1,000 | 🐛 52 | 🌐 Python | 📅 2025-09-08 — Benchmark for long-horizon, language-conditioned manipulation.
-* [PAI-Bench](https://github.com/SHI-Labs/physical-ai-bench) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2026-06-23 — Benchmark of 2,808 real-world cases that scores physical plausibility in video generation, conditional generation and video understanding (CVPR 2026).
+* [ManiSkill Benchmark](https://github.com/haosulab/ManiSkill) ⭐ 3,480 | 🐛 167 | 🌐 Python | 📅 2026-08-04 — Manipulation benchmark suite with scalable GPU simulation and reproducible baselines.
+* [CALVIN](https://github.com/mees/calvin) ⭐ 1,002 | 🐛 52 | 🌐 Python | 📅 2025-09-08 — Benchmark for long-horizon, language-conditioned manipulation.
+* [PAI-Bench](https://github.com/SHI-Labs/physical-ai-bench) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2026-06-23 — Benchmark of 2,808 real-world cases that scores physical plausibility in video generation, conditional generation and video understanding (CVPR 2026).
 * [LIBERO](https://libero-project.github.io/) — Lifelong robot learning benchmark with 130 diverse manipulation tasks.
 * [RLBench](https://sites.google.com/view/rlbench) — Vision-guided manipulation benchmark covering 100+ tasks in CoppeliaSim.
 * [MetaWorld](https://meta-world.github.io/) — Meta-RL benchmark with 50 manipulation tasks for multi-task and transfer studies.
@@ -232,10 +232,10 @@ Task suites and standardised evaluations for manipulation, locomotion, and embod
 
 Harnesses, metrics, and methodology for measuring robot policy performance, robustness, and sim-to-real validity.
 
-* [LeRobot Evaluation Scripts](https://github.com/huggingface/lerobot) ⭐ 28,645 | 🐛 890 | 🌐 Python | 📅 2026-11-02 — Practical evaluation tooling for imitation-learning and policy-regression checks.
+* [LeRobot Evaluation Scripts](https://github.com/huggingface/lerobot) ⭐ 28,657 | 🐛 891 | 🌐 Python | 📅 2026-11-03 — Practical evaluation tooling for imitation-learning and policy-regression checks.
 * [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) ⭐ 1,970 | 🐛 60 | 🌐 Python | 📅 2026-08-11 — Closed-loop evaluation protocol for end-to-end driving policies.
 * [nuPlan Devkit](https://github.com/motional/nuplan-devkit) ⭐ 1,049 | 🐛 102 | 🌐 Python | 📅 2025-08-27 — End-to-end planning evaluation stack with documented metrics and simulation loops.
-* [CARLA ScenarioRunner](https://github.com/carla-simulator/scenario_runner) ⭐ 686 | 🐛 182 | 🌐 Python | 📅 2026-10-26 — Scenario-based closed-loop evaluation harness for safety-critical driving behaviors.
+* [CARLA ScenarioRunner](https://github.com/carla-simulator/scenario_runner) ⭐ 686 | 🐛 182 | 🌐 Python | 📅 2026-11-03 — Scenario-based closed-loop evaluation harness for safety-critical driving behaviors.
 * [RoboHive](https://github.com/vikashplus/robohive) ⭐ 632 | 🐛 24 | 🌐 Python | 📅 2026-09-22 — Benchmarking suite with standardized tasks and scoring across manipulation and locomotion.
 * [RoboArena](https://robo-arena.github.io/) — Decentralised real-world evaluation protocol for generalist robot policies.
 * [robomimic](https://robomimic.github.io/) — Standardised offline-RL and imitation-learning evaluation pipeline with reproducible baselines.
@@ -251,7 +251,7 @@ Harnesses, metrics, and methodology for measuring robot policy performance, robu
 
 <!-- tags: paper -->
 
-* [Inspect Robots (Robocurve)](https://github.com/robocurve/inspect-robots) ⭐ 724 | 🐛 84 | 🌐 Python | 📅 2026-10-29 — Open-source evaluation harness for running LLM and VLA policies on simulated and real arms and humanoids against shared benchmarks.
+* [Inspect Robots (Robocurve)](https://github.com/robocurve/inspect-robots) ⭐ 725 | 🐛 84 | 🌐 Python | 📅 2026-10-29 — Open-source evaluation harness for running LLM and VLA policies on simulated and real arms and humanoids against shared benchmarks.
 
 <!-- tags: tool, benchmark, open-source -->
 
@@ -267,7 +267,7 @@ Generalist policies and vision-language-action (VLA) models for robotic control.
 
 <!-- tags: tool, commercial, production-ready -->
 
-* [openpi (Physical Intelligence)](https://github.com/Physical-Intelligence/openpi) ⭐ 14,501 | 🐛 370 | 🌐 Python | 📅 2026-08-24 — Open weights plus fine-tuning and inference code for π0, π0-FAST and π0.5, with base checkpoints pretrained on 10k+ hours of robot data.
+* [openpi (Physical Intelligence)](https://github.com/Physical-Intelligence/openpi) ⭐ 14,513 | 🐛 370 | 🌐 Python | 📅 2026-08-24 — Open weights plus fine-tuning and inference code for π0, π0-FAST and π0.5, with base checkpoints pretrained on 10k+ hours of robot data.
 
 <!-- tags: tool, open-source -->
 
@@ -295,7 +295,7 @@ Generalist policies and vision-language-action (VLA) models for robotic control.
 
 <!-- tags: paper, framework -->
 
-* [Isaac GR00T N1.x (NVIDIA)](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,303 | 🐛 346 | 🌐 Python | 📅 2026-10-29 — Open humanoid VLA foundation model family (N1 through N1.7) with weights and fine-tuning code; the companion [GR00T-Dreams](https://github.com/NVIDIA/GR00T-Dreams) ⭐ 627 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-10-24 blueprint generates synthetic training trajectories with Cosmos world models.
+* [Isaac GR00T N1.x (NVIDIA)](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,309 | 🐛 346 | 🌐 Python | 📅 2026-10-29 — Open humanoid VLA foundation model family (N1 through N1.7) with weights and fine-tuning code; the companion [GR00T-Dreams](https://github.com/NVIDIA/GR00T-Dreams) ⭐ 627 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-10-24 blueprint generates synthetic training trajectories with Cosmos world models.
 
 <!-- tags: tool, open-source -->
 
@@ -343,15 +343,15 @@ Generalist policies and vision-language-action (VLA) models for robotic control.
 
 <!-- tags: paper -->
 
-* [RDT2 (Tsinghua)](https://github.com/thu-ml/RDT2) ⭐ 808 | 🐛 19 | 🌐 Python | 📅 2026-02-07 — VLA trained on 10,000+ hours of UMI human manipulation data for zero-shot deployment on unseen robot embodiments; successor to [RDT-1B](https://rdt-robotics.github.io/rdt-robotics), a diffusion transformer for bimanual manipulation.
+* [RDT2 (Tsinghua)](https://github.com/thu-ml/RDT2) ⭐ 809 | 🐛 19 | 🌐 Python | 📅 2026-02-07 — VLA trained on 10,000+ hours of UMI human manipulation data for zero-shot deployment on unseen robot embodiments; successor to [RDT-1B](https://rdt-robotics.github.io/rdt-robotics), a diffusion transformer for bimanual manipulation.
 
 <!-- tags: tool, open-source, research-only -->
 
-* [WALL-OSS (X Square Robot)](https://github.com/X-Square-Robot/wall-x) ⭐ 1,308 | 🐛 53 | 🌐 Python | 📅 2026-09-18 — Open embodied foundation models (WALL-OSS, WALL-OSS-0.5) with flow-matching and FAST action heads, released with training and inference code.
+* [WALL-OSS (X Square Robot)](https://github.com/X-Square-Robot/wall-x) ⭐ 1,311 | 🐛 53 | 🌐 Python | 📅 2026-09-18 — Open embodied foundation models (WALL-OSS, WALL-OSS-0.5) with flow-matching and FAST action heads, released with training and inference code.
 
 <!-- tags: tool, open-source -->
 
-* [BFM-Zero](https://github.com/LeCAR-Lab/BFM-Zero) ⭐ 835 | 🐛 5 | 🌐 Python | 📅 2026-10-21 — Promptable behavioral foundation model for humanoid control that uses unsupervised forward-backward RL so one policy handles motion tracking, goal reaching and reward optimization (ICLR 2026).
+* [BFM-Zero](https://github.com/LeCAR-Lab/BFM-Zero) ⭐ 838 | 🐛 5 | 🌐 Python | 📅 2026-10-21 — Promptable behavioral foundation model for humanoid control that uses unsupervised forward-backward RL so one policy handles motion tracking, goal reaching and reward optimization (ICLR 2026).
 
 <!-- tags: paper, open-source, research-only -->
 
@@ -367,7 +367,7 @@ Generative and predictive models of physical dynamics used for planning, simulat
 
 <!-- tags: paper, framework -->
 
-* [NVIDIA Cosmos](https://developer.nvidia.com/cosmos) — World foundation model platform whose current [Cosmos 3](https://github.com/nvidia/cosmos) ⭐ 12,228 | 🐛 28 | 📅 2026-10-30 family (Edge, Nano and Super) provides open omnimodal models that act as world models and as backbones for world-action models.
+* [NVIDIA Cosmos](https://developer.nvidia.com/cosmos) — World foundation model platform whose current [Cosmos 3](https://github.com/nvidia/cosmos) ⭐ 12,241 | 🐛 28 | 📅 2026-10-30 family (Edge, Nano and Super) provides open omnimodal models that act as world models and as backbones for world-action models.
 
 <!-- tags: tool, commercial -->
 
@@ -375,8 +375,8 @@ Generative and predictive models of physical dynamics used for planning, simulat
 
 <!-- tags: paper, framework -->
 
-* [Robotic World Model (ETH RSL)](https://github.com/leggedrobotics/robotic_world_model) ⭐ 699 | 🐛 1 | 🌐 Python | 📅 2026-10-29 — Learned world model for legged robots from ETH Zurich's Robotic Systems Lab; companion [lite variant](https://github.com/leggedrobotics/robotic_world_model_lite) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2026-04-08 for lighter-weight experimentation.
-* [GreenWAM (Sber Robotics Center)](https://github.com/greenvla/GreenWAM) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2026-10-14 — World foundation model built on Cosmos 3 Edge that acts as both world model and policy across 20 robot families via a shared anatomical joint space, with released benchmark checkpoints and evaluation code.
+* [Robotic World Model (ETH RSL)](https://github.com/leggedrobotics/robotic_world_model) ⭐ 700 | 🐛 1 | 🌐 Python | 📅 2026-10-29 — Learned world model for legged robots from ETH Zurich's Robotic Systems Lab; companion [lite variant](https://github.com/leggedrobotics/robotic_world_model_lite) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2026-04-08 for lighter-weight experimentation.
+* [GreenWAM (Sber Robotics Center)](https://github.com/greenvla/GreenWAM) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2026-10-14 — World foundation model built on Cosmos 3 Edge that acts as both world model and policy across 20 robot families via a shared anatomical joint space, with released benchmark checkpoints and evaluation code.
 * [DreamerV3](https://danijar.com/project/dreamerv3/) — General world-model algorithm achieving strong results across 150+ tasks with fixed hyperparameters.
 * [DayDreamer](https://danijar.com/project/daydreamer/) — World models applied to physical robot learning for sample-efficient skill acquisition.
 * [UniSim](https://universal-simulator.github.io/unisim/) — Universal simulator learning real-world interactions from diverse video data.
@@ -400,7 +400,7 @@ Generative and predictive models of physical dynamics used for planning, simulat
 
 Methods, models, and tools for grasping, dexterous manipulation, and contact-rich tasks.
 
-* [TWIST2](https://github.com/amazon-far/TWIST2) ⭐ 894 | 🐛 37 | 🌐 Python | 📅 2026-09-23 — Portable, mocap-free whole-body humanoid teleoperation and data-collection system using a VR headset and a low-cost robot neck for egocentric vision.
+* [TWIST2](https://github.com/amazon-far/TWIST2) ⭐ 895 | 🐛 37 | 🌐 Python | 📅 2026-09-23 — Portable, mocap-free whole-body humanoid teleoperation and data-collection system using a VR headset and a low-cost robot neck for egocentric vision.
 
 * [Contact-GraspNet](https://github.com/NVlabs/contact_graspnet) ⭐ 544 | 🐛 25 | 🌐 Python | 📅 2024-11-21 — Grasp pose generation directly from partial point clouds.
 
@@ -438,7 +438,7 @@ Methods, models, and tools for grasping, dexterous manipulation, and contact-ric
 
 <!-- tags: tool, open-source, research-only -->
 
-* [OSMO](https://github.com/jessicayin/osmo_tactile_glove) ⭐ 85 | 🐛 4 | 🌐 C | 📅 2026-10-26 — Tactile glove with shear and normal force sensing, worn by both human demonstrators and robot hands to transfer contact-rich skills, with released hardware designs and firmware.
+* [OSMO](https://github.com/jessicayin/osmo_tactile_glove) ⭐ 87 | 🐛 4 | 🌐 C | 📅 2026-10-26 — Tactile glove with shear and normal force sensing, worn by both human demonstrators and robot hands to transfer contact-rich skills, with released hardware designs and firmware.
 
 <!-- tags: research-only -->
 
@@ -446,8 +446,8 @@ Methods, models, and tools for grasping, dexterous manipulation, and contact-ric
 
 Legged, bipedal, and humanoid locomotion — controllers, learning approaches, and reference platforms.
 
-* [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,300 | 🐛 61 | 🌐 Python | 📅 2026-10-31 — Curated high-quality robot models for repeatable locomotion research.
-* [RSL-RL](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,114 | 🐛 12 | 🌐 Python | 📅 2026-10-28 — Fast PPO implementation from ETH Zurich tuned for legged-robot RL on GPU simulators.
+* [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,309 | 🐛 60 | 🌐 Python | 📅 2026-11-02 — Curated high-quality robot models for repeatable locomotion research.
+* [RSL-RL](https://github.com/leggedrobotics/rsl_rl) ⭐ 3,116 | 🐛 13 | 🌐 Python | 📅 2026-10-28 — Fast PPO implementation from ETH Zurich tuned for legged-robot RL on GPU simulators.
 * [FLD — Fourier Latent Dynamics (MIT Biomimetics)](https://github.com/mit-biomimetics/fld) ⭐ 367 | 🐛 0 | 🌐 Python | 📅 2024-06-13 — Periodic motion latent representation for learning agile, natural-looking legged locomotion (ICLR 2024).
 * [WASABI (Max Planck / Martius Lab)](https://github.com/martius-lab/wasabi) ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2024-03-21 — Versatile skill learning for quadrupeds via unsupervised motion-prior discovery from unlabeled reference data.
 * [CASSI (Max Planck / Martius Lab)](https://github.com/martius-lab/cassi) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2024-04-06 — Self-supervised adversarial imitation of unlabeled mixed motions for versatile quadruped skill control (ICRA 2023).
@@ -492,7 +492,7 @@ Techniques and case studies for transferring policies trained in simulation to r
 * [Privileged Learning for Rapid Motor Adaptation](https://arxiv.org/abs/2109.11978) — Distillation strategy leveraging privileged simulation signals for robust real-world control.
 * [SimGAN](https://arxiv.org/abs/1612.07828) — Sim-to-real visual adaptation method for narrowing sensor-domain gaps.
 * [SimToolReal](https://simtoolreal.github.io/) — Object-centric RL policy trained on procedurally generated tool primitives, transferring to unseen real tools without task-specific training.
-* [RoboSimStudio](https://github.com/robosimstudio/robosimstudio) ⭐ 292 | 🐛 1 | 🌐 Python | 📅 2026-10-29 — Interactive GPU toolkit built on Newton for rebuilding real manipulation tasks in simulation, by hand or with a coding agent, with editable solver, contact and physical parameters.
+* [RoboSimStudio](https://github.com/robosimstudio/robosimstudio) ⭐ 307 | 🐛 1 | 🌐 Python | 📅 2026-10-29 — Interactive GPU toolkit built on Newton for rebuilding real manipulation tasks in simulation, by hand or with a coding agent, with editable solver, contact and physical parameters.
 
 <!-- tags: tool, open-source, research-only -->
 
@@ -504,10 +504,10 @@ Techniques and case studies for transferring policies trained in simulation to r
 
 Tools, benchmarks, and methodology for safe exploration, robustness testing, and failure-mode analysis.
 
-* [OmniSafe](https://github.com/PKU-Alignment/omnisafe) ⭐ 1,161 | 🐛 29 | 🌐 Python | 📅 2025-03-17 — Open-source safe-RL training framework with strong baseline implementations.
+* [OmniSafe](https://github.com/PKU-Alignment/omnisafe) ⭐ 1,162 | 🐛 29 | 🌐 Python | 📅 2025-03-17 — Open-source safe-RL training framework with strong baseline implementations.
 * [Safe Control Gym](https://github.com/utiasDSL/safe-control-gym) ⭐ 932 | 🐛 6 | 🌐 Python | 📅 2026-04-29 — Benchmark suite for safe learning-based control with constraints and disturbances.
 * [Safety Gym (OpenAI)](https://github.com/openai/safety-gym) ⚠️ Archived — Environments for benchmarking constrained and safe-exploration RL.
-* [Safety-Gymnasium](https://github.com/PKU-Alignment/safety-gymnasium) ⭐ 596 | 🐛 16 | 🌐 Python | 📅 2026-07-21 — Modern safe-RL benchmark suite extending Safety Gym with richer constraints and tasks.
+* [Safety-Gymnasium](https://github.com/PKU-Alignment/safety-gymnasium) ⭐ 597 | 🐛 16 | 🌐 Python | 📅 2026-07-21 — Modern safe-RL benchmark suite extending Safety Gym with richer constraints and tasks.
 * [VerifAI](https://github.com/BerkeleyLearnVerify/VerifAI) ⭐ 220 | 🐛 15 | 🌐 Python | 📅 2026-09-30 — Falsification and formal-analysis toolkit for autonomy and cyber-physical systems.
 * [Constrained Policy Optimization (Achiam et al.)](https://arxiv.org/abs/1705.10528) — Canonical algorithmic framework for constrained safe RL.
 * [Realistic Adversarial Driving (Wang et al.)](https://arxiv.org/abs/2003.01197) — Methodology for stress-testing autonomous driving policies under adversarial conditions.
@@ -668,7 +668,7 @@ Foundational and advanced textbooks.
 
 Hands-on learning resources.
 
-* [LeRobot Tutorials](https://github.com/huggingface/lerobot) ⭐ 28,645 | 🐛 890 | 🌐 Python | 📅 2026-11-02 - Getting started with robot learning using Hugging Face's framework.
+* [LeRobot Tutorials](https://github.com/huggingface/lerobot) ⭐ 28,657 | 🐛 891 | 🌐 Python | 📅 2026-11-03 - Getting started with robot learning using Hugging Face's framework.
 * [Isaac Lab Documentation](https://isaac-sim.github.io/IsaacLab/) - Comprehensive guides for NVIDIA's robot learning framework.
 * [MuJoCo Documentation](https://mujoco.readthedocs.io/) - Official docs with modeling and programming guides.
 * [ROS 2 Tutorials](https://docs.ros.org/en/rolling/Tutorials/) - Official tutorials for getting started with ROS 2.
@@ -731,7 +731,7 @@ Influential research papers in Physical AI.
 Comprehensive overviews of key areas.
 
 * [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917) - Survey connecting physical simulators and world models for embodied AI, with a maintained [companion repository](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey) ⭐ 266 | 🐛 3 | 📅 2025-10-03.
-* [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/abs/2510.24795) - Taxonomy of efficient VLA model design, training and data collection (IEEE TPAMI 2026), with a maintained [paper list](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) ⭐ 206 | 🐛 0 | 📅 2026-09-10.
+* [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/abs/2510.24795) - Taxonomy of efficient VLA model design, training and data collection (IEEE TPAMI 2026), with a maintained [paper list](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) ⭐ 207 | 🐛 0 | 📅 2026-09-10.
 * [Foundation Models in Robotics](https://arxiv.org/abs/2312.07843) - Survey on how foundation models are transforming robotics.
 * [Neural Fields in Robotics](https://arxiv.org/abs/2410.20220) - Survey on neural implicit representations for robotics applications.
 * [A Survey on LLM-based Autonomous Agents](https://arxiv.org/abs/2308.11432) - Comprehensive survey on LLM-based agents.
@@ -747,7 +747,7 @@ Physical robots for research and development.
 
 **Arms & Manipulators**
 
-* [DexUMI Code & Data](https://github.com/real-stanford/DexUMI) ⭐ 270 | 🐛 7 | 🌐 C | 📅 2026-04-18 - Code and datasets for the Dex-UMI dexterous manipulation benchmark.
+* [DexUMI Code & Data](https://github.com/real-stanford/DexUMI) ⭐ 272 | 🐛 7 | 🌐 C | 📅 2026-04-18 - Code and datasets for the Dex-UMI dexterous manipulation benchmark.
 
 * [Franka Emika](https://www.franka.de/) - Research-grade 7-DOF arm with torque sensing and compliant control.
 
@@ -765,7 +765,7 @@ Physical robots for research and development.
 
 **Humanoids**
 
-* [RoboParty RP1](https://github.com/Roboparty/RP1) ⭐ 1,116 | 🐛 1 | 📅 2026-10-28 - Open-source humanoid platform releasing mechanical CAD, PCB and harness designs, BOM, joint-module firmware, robot descriptions and locomotion training code.
+* [RoboParty RP1](https://github.com/Roboparty/RP1) ⭐ 1,129 | 🐛 0 | 📅 2026-11-03 - Open-source humanoid platform releasing mechanical CAD, PCB and harness designs, BOM, joint-module firmware, robot descriptions and locomotion training code.
 * [Reachy 2 (Pollen Robotics / Hugging Face)](https://www.pollen-robotics.com/reachy-2/) - Fully open-source humanoid robot for embodied AI research with Python SDK and ROS 2 support.
 * [Reachy Mini](https://huggingface.co/blog/reachy-mini) - Compact open-source desktop robot from $299 for AI experimentation.
 * [Boston Dynamics Atlas](https://bostondynamics.com/atlas/) - Advanced research humanoid with dynamic locomotion.
@@ -784,10 +784,10 @@ Physical robots for research and development.
 
 **Low-Cost & DIY**
 
-* [LeRobot Hardware](https://github.com/huggingface/lerobot) ⭐ 28,645 | 🐛 890 | 🌐 Python | 📅 2026-11-02 - Reference designs for low-cost robot arms.
-* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,970 | 🐛 90 | 📅 2026-10-06 - Open-source anthropomorphic robot arm.
-* [SO-ARM 102](https://github.com/roboninecom/SO-ARM-102) ⭐ 180 | 🐛 3 | 📅 2026-11-02 - 3D-printable leader-follower arm with five arm degrees of freedom plus a parallel gripper, open CAD, a bill of materials, assembly instructions, and a follower URDF for LeRobot workflows.
-* [Gearotons M17](https://github.com/tomrodinger/servomotor) ⭐ 15 | 🐛 1 | 🌐 HTML | 📅 2026-10-29 - Open-source NEMA 17 integrated servomotor with built-in driver, motion controller and encoder, controlled over RS-485.
+* [LeRobot Hardware](https://github.com/huggingface/lerobot) ⭐ 28,657 | 🐛 891 | 🌐 Python | 📅 2026-11-03 - Reference designs for low-cost robot arms.
+* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) ⭐ 7,976 | 🐛 91 | 📅 2026-10-06 - Open-source anthropomorphic robot arm.
+* [SO-ARM 102](https://github.com/roboninecom/SO-ARM-102) ⭐ 182 | 🐛 5 | 📅 2026-11-03 - 3D-printable leader-follower arm with five arm degrees of freedom plus a parallel gripper, open CAD, a bill of materials, assembly instructions, and a follower URDF for LeRobot workflows.
+* [Gearotons M17](https://github.com/tomrodinger/servomotor) ⭐ 16 | 🐛 1 | 🌐 HTML | 📅 2026-10-29 - Open-source NEMA 17 integrated servomotor with built-in driver, motion controller and encoder, controlled over RS-485.
 * [ALOHA Hardware](https://tonyzhaozh.github.io/aloha/) - Low-cost bimanual teleoperation system (\~$20k).
 * [Gello](https://wuphilipp.github.io/gello/) - General, low-cost, and intuitive teleoperation framework.
 * [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - Open-source modular robot for legged locomotion research.
@@ -881,15 +881,15 @@ Researchers, engineers, and practitioners shaping Physical AI.
 
 Other curated lists covering adjacent topics.
 
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,800 | 🐛 1,211 | 📅 2026-10-30 - Broader generative AI resources.
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 7,275 | 🐛 49 | 📅 2024-09-22 - General robotics resources.
-* [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,496 | 🐛 8 | 📅 2026-10-29 - LLM/VLM applications in robotics.
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,102 | 🐛 8 | 🌐 Python | 📅 2026-11-01 - Robotics software libraries.
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,804 | 🐛 1,227 | 📅 2026-10-30 - Broader generative AI resources.
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 7,279 | 🐛 49 | 📅 2024-09-22 - General robotics resources.
+* [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,498 | 🐛 8 | 📅 2026-10-29 - LLM/VLM applications in robotics.
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,104 | 🐛 8 | 🌐 Python | 📅 2026-11-02 - Robotics software libraries.
 * [Awesome Embodied Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) ⭐ 1,910 | 🐛 1 | 📅 2026-10-30 - Embodied AI with VLMs and LLMs.
 * [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl) ⭐ 902 | 🐛 4 | 📅 2025-07-13 - Deep reinforcement learning resources.
 * [Awesome Robotics 3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) ⭐ 825 | 🐛 5 | 📅 2025-12-17 - 3D vision for robotics.
 * [Awesome Imitation Learning](https://github.com/kristery/Awesome-Imitation-Learning) ⭐ 612 | 🐛 2 | 📅 2024-02-05 - Learning from demonstrations.
-* [Awesome VLA for Humanoid Robots (OpenDriveLab)](https://github.com/OpenDriveLab/WholebodyVLA) ⭐ 581 | 🐛 1 | 📅 2026-05-25 - Paper list on vision-language-action models for humanoid robots, maintained in the WholeBodyVLA (ICLR 2026) repository.
+* [Awesome VLA for Humanoid Robots (OpenDriveLab)](https://github.com/OpenDriveLab/WholebodyVLA) ⭐ 582 | 🐛 1 | 📅 2026-05-25 - Paper list on vision-language-action models for humanoid robots, maintained in the WholeBodyVLA (ICLR 2026) repository.
 * [Bipedal Robot Learning Collection](https://github.com/zita-ch/bipedal-robot-learning-collection) ⭐ 472 | 🐛 2 | 📅 2026-04-06 - Curated bipedal/humanoid robot-learning papers with a sim-to-real focus.
 * [Awesome World Models](https://github.com/operator22th/awesome-world-models-for-robots) ⭐ 144 | 🐛 2 | 📅 2026-03-30 - World models for robotics.
 * [Awesome Agentic AI Security](https://github.com/natnew/Awesome-Agentic-AI-Security) ⭐ 21 | 🐛 21 | 🌐 Astro | 📅 2026-10-22 - Security research, threat models, defenses, and governance for agentic AI systems.
@@ -917,4 +917,4 @@ Jump in and join the community — PRs of every size are welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
