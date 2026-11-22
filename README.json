@@ -10,8 +10,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "An open-source library for sim and real robot demos on top of MuJoCo.",
-            "homepage": "playground.mujoco.org",
+            "description": "An open-source library for sim and real robot demos curated by the MuJoCo team.",
+            "homepage": "https://playground.mujoco.org",
             "id": 898162230,
             "language": "Python",
             "license": "Apache-2.0",
@@ -19,7 +19,7 @@
             "open_issues": 85,
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
-            "stars": 2326,
+            "stars": 2330,
             "topics": []
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
@@ -40,7 +40,7 @@
             "open_issues": 444,
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14881,
+            "stars": 14884,
             "topics": [
               "computer-animation",
               "game-development",
@@ -71,7 +71,7 @@
             "open_issues": 118,
             "owner": "google",
             "repo": "brax",
-            "stars": 3265,
+            "stars": 3266,
             "topics": [
               "jax",
               "physics-simulation",
@@ -93,8 +93,8 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T00:37:51Z",
-            "open_issues": 496,
+            "last_commit": "2026-11-21T19:59:23Z",
+            "open_issues": 506,
             "owner": "newton-physics",
             "repo": "newton",
             "stars": 5977,
@@ -106,6 +106,48 @@
             ]
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Alloy",
+          "description": "Multi-material, GPU-parallel physics engine for robot learning that simulates robots, cloth, cables, liquids, sand and soft bodies, built on Newton and MuJoCo Warp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Alloy: a multi-material, parallel physics engine for robot learning, built on Newton, MuJoCo Warp and Warp. Rigid robots, cloth, liquids and soft bodies in one scene, in parallel worlds on a GPU (thousands for free rigid bodies, up to 4,096 for a robot arm), or on a CPU. Python 3.11 or 3.12.",
+            "homepage": "https://alloy.argonrobotics.ai",
+            "id": 1454460819,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-22T10:53:17Z",
+            "open_issues": 0,
+            "owner": "argonrobotics-ai",
+            "repo": "alloy",
+            "stars": 69,
+            "topics": [
+              "ai-agents",
+              "cloth-simulation",
+              "fluid-simulation",
+              "gpu",
+              "gymnasium",
+              "imitation-learning",
+              "mujoco",
+              "mujoco-warp",
+              "newton-physics",
+              "physics-engine",
+              "physics-simulation",
+              "python",
+              "reinforcement-learning",
+              "robot-learning",
+              "robot-simulation",
+              "robotics",
+              "sim-to-real",
+              "simulation",
+              "soft-body",
+              "warp"
+            ]
+          },
+          "first_seen": "2026-11-22T12:25:01.845Z"
         }
       ],
       "title": "Simulators"
@@ -155,7 +197,7 @@
             "open_issues": 53,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 1005,
+            "stars": 1006,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -211,10 +253,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 170,
+            "open_issues": 171,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3532,
+            "stars": 3535,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -242,7 +284,7 @@
             "open_issues": 53,
             "owner": "mees",
             "repo": "calvin",
-            "stars": 1005,
+            "stars": 1006,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -301,11 +343,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T03:31:23Z",
-            "open_issues": 992,
+            "last_commit": "2026-11-22T09:56:15Z",
+            "open_issues": 997,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 29010,
+            "stars": 29021,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -429,10 +471,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-11T23:06:03Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "robocurve",
             "repo": "inspect-robots",
-            "stars": 775,
+            "stars": 778,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -468,7 +510,7 @@
             "open_issues": 382,
             "owner": "Physical-Intelligence",
             "repo": "openpi",
-            "stars": 14722,
+            "stars": 14729,
             "topics": []
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
@@ -486,10 +528,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T22:53:19Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "NVIDIA",
             "repo": "Isaac-GR00T",
-            "stars": 8402,
+            "stars": 8403,
             "topics": []
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
@@ -531,7 +573,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1336,
+            "stars": 1337,
             "topics": []
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
@@ -552,7 +594,7 @@
             "open_issues": 5,
             "owner": "LeCAR-Lab",
             "repo": "BFM-Zero",
-            "stars": 844,
+            "stars": 845,
             "topics": [
               "humanoid",
               "reinforcement-learning",
@@ -584,7 +626,7 @@
             "open_issues": 14,
             "owner": "NVIDIA",
             "repo": "cosmos",
-            "stars": 12428,
+            "stars": 12431,
             "topics": []
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
@@ -605,7 +647,7 @@
             "open_issues": 1,
             "owner": "leggedrobotics",
             "repo": "robotic_world_model",
-            "stars": 737,
+            "stars": 738,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -674,7 +716,7 @@
             "open_issues": 37,
             "owner": "amazon-far",
             "repo": "TWIST2",
-            "stars": 902,
+            "stars": 903,
             "topics": []
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
@@ -716,7 +758,7 @@
             "open_issues": 4,
             "owner": "jessicayin",
             "repo": "osmo_tactile_glove",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
@@ -740,10 +782,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-10T20:21:12Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 4394,
+            "stars": 4401,
             "topics": [
               "mujoco",
               "robotics"
@@ -764,7 +806,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T17:06:26Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "leggedrobotics",
             "repo": "rsl_rl",
             "stars": 3151,
@@ -843,42 +885,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "OmniSafe",
-          "description": "Open-source safe-RL training framework with strong baseline implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "JMLR: OmniSafe is an infrastructural framework for accelerating SafeRL research.",
-            "homepage": "https://omnisafe.readthedocs.io/en/latest/",
-            "id": 568133426,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-03-17T11:45:44Z",
-            "open_issues": 29,
-            "owner": "PKU-Alignment",
-            "repo": "omnisafe",
-            "stars": 1169,
-            "topics": [
-              "benchmark",
-              "constraint-rl",
-              "constraint-satisfaction-problem",
-              "deep-learning",
-              "deep-reinforcement-learning",
-              "machine-learning",
-              "pytorch",
-              "reinforcement-learning",
-              "safe-reinforcement-learning",
-              "safe-rl",
-              "saferl",
-              "safety-critical",
-              "safety-gym",
-              "safety-gymnasium"
-            ]
-          },
-          "first_seen": "2026-08-28T16:29:58.204Z"
-        },
-        {
-          "node_type": "item",
           "title": "Safe Control Gym",
           "description": "Benchmark suite for safe learning-based control with constraints and disturbances.",
           "children": [],
@@ -929,6 +935,84 @@
             "repo": "safety-gym",
             "stars": 602,
             "topics": []
+          },
+          "first_seen": "2026-08-28T16:29:58.204Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Provael",
+          "description": "Red-team harness for VLA robot policies in simulation on LIBERO, reporting attack success rate beside a benign control with 95% intervals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Provael — red-team open Vision-Language-Action (VLA) robot policies in simulation and report an Attack Success Rate (ASR). Prove it. Prevail.",
+            "homepage": "https://www.provael.com",
+            "id": 1257863851,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-21T13:33:03Z",
+            "open_issues": 1,
+            "owner": "provael",
+            "repo": "provael",
+            "stars": 7,
+            "topics": [
+              "adversarial-attacks",
+              "ai-red-teaming",
+              "ai-safety",
+              "ai-security",
+              "embodied-ai",
+              "eu-ai-act",
+              "github-action",
+              "lerobot",
+              "libero",
+              "llm",
+              "llm-security",
+              "machinery-regulation",
+              "red-team",
+              "robot-learning",
+              "robotics",
+              "sarif",
+              "security",
+              "smolvla",
+              "vision-language-action",
+              "vla"
+            ]
+          },
+          "first_seen": "2026-11-22T12:25:01.845Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OmniSafe",
+          "description": "Open-source safe-RL training framework with strong baseline implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "JMLR: OmniSafe is an infrastructural framework for accelerating SafeRL research.",
+            "homepage": "https://omnisafe.readthedocs.io/en/latest/",
+            "id": 568133426,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-03-17T11:45:44Z",
+            "open_issues": 29,
+            "owner": "PKU-Alignment",
+            "repo": "omnisafe",
+            "stars": 1170,
+            "topics": [
+              "benchmark",
+              "constraint-rl",
+              "constraint-satisfaction-problem",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "machine-learning",
+              "pytorch",
+              "reinforcement-learning",
+              "safe-reinforcement-learning",
+              "safe-rl",
+              "saferl",
+              "safety-critical",
+              "safety-gym",
+              "safety-gymnasium"
+            ]
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
         },
@@ -1020,7 +1104,7 @@
             "open_issues": 0,
             "owner": "PKU-Alignment",
             "repo": "SafeVLA",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-11-01T11:10:43.535Z"
@@ -1064,8 +1148,8 @@
             "id": 127306752,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T14:40:30Z",
-            "open_issues": 137,
+            "last_commit": "2026-11-22T02:29:11Z",
+            "open_issues": 138,
             "owner": "ros2",
             "repo": "rosbag2",
             "stars": 448,
@@ -1085,8 +1169,8 @@
             "id": 826169557,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-21T11:52:48Z",
-            "open_issues": 644,
+            "last_commit": "2026-11-22T09:15:40Z",
+            "open_issues": 653,
             "owner": "cerulion-inc",
             "repo": "cerulion",
             "stars": 121,
@@ -1150,7 +1234,7 @@
             "open_issues": 0,
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "efficient",
               "embodied-ai",
@@ -1183,7 +1267,7 @@
             "open_issues": 7,
             "owner": "real-stanford",
             "repo": "DexUMI",
-            "stars": 280,
+            "stars": 281,
             "topics": [
               "robotics"
             ]
@@ -1206,7 +1290,7 @@
             "open_issues": 0,
             "owner": "Roboparty",
             "repo": "RP1",
-            "stars": 1221,
+            "stars": 1227,
             "topics": []
           },
           "first_seen": "2026-10-23T09:14:37.038Z"
@@ -1223,11 +1307,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T03:31:23Z",
-            "open_issues": 992,
+            "last_commit": "2026-11-22T09:56:15Z",
+            "open_issues": 997,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 29010,
+            "stars": 29021,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -1248,7 +1332,7 @@
             "open_issues": 91,
             "owner": "TheRobotStudio",
             "repo": "SO-ARM100",
-            "stars": 8178,
+            "stars": 8185,
             "topics": []
           },
           "first_seen": "2026-08-28T16:29:58.204Z"
@@ -1269,7 +1353,7 @@
             "open_issues": 7,
             "owner": "roboninecom",
             "repo": "SO-ARM102",
-            "stars": 289,
+            "stars": 296,
             "topics": [
               "3d-printing",
               "imitation-learning",
@@ -1345,10 +1429,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-20T12:16:34Z",
-            "open_issues": 1457,
+            "open_issues": 1456,
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12852,
+            "stars": 12853,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1378,7 +1462,7 @@
             "open_issues": 54,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7315,
+            "stars": 7317,
             "topics": [
               "robotics"
             ]
@@ -1452,8 +1536,8 @@
             "id": 668159220,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T01:28:45Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-22T03:38:14Z",
+            "open_issues": 1,
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
             "stars": 1922,
@@ -1646,8 +1730,8 @@
             "id": 1224236735,
             "language": "Astro",
             "license": "MIT",
-            "last_commit": "2026-11-14T12:18:43Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-21T13:16:15Z",
+            "open_issues": 16,
             "owner": "natnew",
             "repo": "Awesome-Agentic-AI-Security",
             "stars": 22,
@@ -1673,10 +1757,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-21T11:35:17Z",
-            "open_issues": 7,
+            "open_issues": 10,
             "owner": "natnew",
             "repo": "awesome-ai-scientists",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "ai-agents",
               "ai-scientist",
@@ -1699,8 +1783,8 @@
             "id": 1186977349,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-21T12:02:44Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-21T15:54:19Z",
+            "open_issues": 2,
             "owner": "natnew",
             "repo": "Awesome-Agentic-Engineering",
             "stars": 5,
@@ -1719,7 +1803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:22:19.079Z",
+    "last_updated": "2026-11-22T12:25:01.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. 🌟 Star if you like it!",
@@ -1727,8 +1811,8 @@
       "id": 1128508841,
       "language": "MDX",
       "license": "MIT",
-      "last_commit": "2026-11-14T12:18:21Z",
-      "open_issues": 14,
+      "last_commit": "2026-11-21T15:52:50Z",
+      "open_issues": 11,
       "owner": "natnew",
       "repo": "awesome-physical-ai",
       "stars": 177,
@@ -1740,7 +1824,7 @@
         "physical-ai"
       ]
     },
-    "original_repository_sha": "be8ac9fe0fa477e873df21f673773cbf275c2fb1",
+    "original_repository_sha": "01f54255aecf0b507cf57885b1837220859c421f",
     "enhanced_repository": "enhansome/enhansome-physical-ai",
     "enhanced_repository_description": null,
     "title": "Awesome Appendices with stars"
